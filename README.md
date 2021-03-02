@@ -35,8 +35,8 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
 |---|---|---|---|---|---|---|---|---|
-|1|[2875 대회 Or 인턴](https://www.acmicpc.net/problem/2875)|브론즈 3|x|x|x|x|x|-|
-|2|[10610 30](https://www.acmicpc.net/problem/10610)|실버 5|x|x|x|x|x|-|
+|1|[2875 대회 Or 인턴](https://www.acmicpc.net/problem/2875)|브론즈 3|x|x|o|x|x|-|
+|2|[10610 30](https://www.acmicpc.net/problem/10610)|실버 5|x|x|o|x|x|-|
 |3|[1783 병든 나이트](https://www.acmicpc.net/problem/1783)|실버 5|x|x|x|x|x|-|
 |4|[1931 회의실 배정](https://www.acmicpc.net/problem/1931)|실버 2|x|x|x|x|x|-|
 |5|[11399 ATM](https://www.acmicpc.net/problem/11399)|실버 3|x|x|x|x|x|-|
