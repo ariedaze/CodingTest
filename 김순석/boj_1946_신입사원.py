@@ -4,22 +4,19 @@ T = int(In())
 for t in range(1, T+1):
     N = int(In())
     score = []
-    cal = []
-    result = []
+    cnt = 1
     for _ in range(N):
         score.append(list(map(int, In().split())))
 
-    a = sorted(score, key=lambda x: x[0])
-    if a[0][0] == 1 and a[0][1] == 1:
+    score = sorted(score, key=lambda x: x[0])
+    pivot = score[0][1]
+    if score[0][0] == 1 and score[0][1] == 1:
         print(1)
         continue
 
-    for i in range(1, len(a)):
-        if a[0][1] > a[i][1]:
-            cal.append(a[i])
+    for i in range(1, N):
+        if pivot > score[i][1]:
+            cnt += 1
+            pivot = score[i][1]
 
-    cal = sorted(cal, key=lambda x: x[1])
-    for i in range(1, len(cal)):
-        if cal[0][0] > cal[i][0]:
-            result.append(cal[i])
-    print(len(result) + 2)
+    print(cnt)
