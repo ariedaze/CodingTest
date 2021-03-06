@@ -33,6 +33,7 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 
 [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ)
 
+<<<<<<< HEAD
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
 |---|---|---|---|---|---|---|---|---|
 |1|[2875 대회 Or 인턴](https://www.acmicpc.net/problem/2875)|브론즈 3|o|o|o|o|o|-|
@@ -50,29 +51,48 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 |13|[11047 동전0](https://www.acmicpc.net/problem/11047)|실버 1|x|x|x|x|x|-|
 |14|[1202 보석 도둑](https://www.acmicpc.net/problem/1202)|골드 2|x|x|x|x|x|-|
 |15|[1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|골드 2|x|x|x|x|x|-|
+=======
+| 번호 | 문제                                                         | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ------------------------------------------------------------ | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [2875 대회 Or 인턴](https://www.acmicpc.net/problem/2875)    | 브론즈 3 | o    | o    | o    | o    | o    | -    |
+| 2    | [10610 30](https://www.acmicpc.net/problem/10610)            | 실버 5   | o    | o    | o    | o    | o    | -    |
+| 3    | [1783 병든 나이트](https://www.acmicpc.net/problem/1783)     | 실버 5   | o    | x    | o    | o    | o    | -    |
+| 4    | [1931 회의실 배정](https://www.acmicpc.net/problem/1931)     | 실버 2   | o    | o    | o    | x    | o    | -    |
+| 5    | [11399 ATM](https://www.acmicpc.net/problem/11399)           | 실버 3   | o    | o    | o    | o    | o    | -    |
+| 6    | [2217 로프](https://www.acmicpc.net/problem/2217)            | 실버 4   | o    | o    | o    | x    | o    | -    |
+| 7    | [13458 시험감독](https://www.acmicpc.net/problem/13458)      | 브론즈 2 | o    | o    | o    | o    | o    | -    |
+| 8    | [1946 신입 사원](https://www.acmicpc.net/problem/1946)       | 실버 1   | x    | x    | o    | x    | o    | -    |
+| 9    | [4796 캠핑](https://www.acmicpc.net/problem/4796)            | 실버 5   | x    | x    | o    | x    | x    | -    |
+| 10   | [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)   | 실버 2   | x    | x    | o    | x    | x    | -    |
+| 11   | [12845 모두의 마블](https://www.acmicpc.net/problem/12845)   | 실버 2   | x    | x    | o    | x    | x    | -    |
+| 12   | [1969 DNA](https://www.acmicpc.net/problem/1969)             | 실버 5   | x    | x    | o    | x    | x    | -    |
+| 13   | [11047 동전0](https://www.acmicpc.net/problem/11047)         | 실버 1   | x    | x    | x    | x    | x    | -    |
+| 14   | [1202 보석 도둑](https://www.acmicpc.net/problem/1202)       | 골드 2   | x    | x    | x    | x    | x    | -    |
+| 15   | [1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | 골드 2   | x    | x    | x    | x    | x    | -    |
+>>>>>>> 722d682f493508092a2db2013ec9b9208a5341d2
 
 
 ### 2. 완전 탐색 (DFS & BFS)
 
 [DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo)
 
-|번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
-|---|---|---|---|---|---|---|---|---|
-|1|[1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)|실버 2|x|x|x|x|x|-|
-|2|[1303 전투](https://www.acmicpc.net/problem/1303)|실버 1|x|x|x|x|x|-|
-|3|[2178 미로 탐색](https://www.acmicpc.net/problem/2178)|실버 1|x|x|x|x|x|-|
-|4|[1743 음식물 피하기](https://www.acmicpc.net/problem/1743)|실버 1|x|x|x|x|x|-|
-|5|[2606 바이러스](https://www.acmicpc.net/problem/2606)|실버 3|x|x|x|x|x|-|
-|6|[16953 A -> B](https://www.acmicpc.net/problem/16953)|실버 1|x|x|x|x|x|-|
-|7|[12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)|골드 5|x|x|x|x|x|-|
-|8|[2503 숫자야구](https://www.acmicpc.net/problem/2503)|실버 5|x|x|x|x|x|-|
-|9|[2231 분해합](https://www.acmicpc.net/problem/2231)|브론즈 2|x|x|x|x|x|-|
-|10|[14226 이모티콘](https://www.acmicpc.net/problem/14226)|골드 5|x|x|x|x|x|-|
-|11|[17086 아기 상어2](https://www.acmicpc.net/problem/17086)|실버 1|x|x|x|x|x|-|
-|12|[10448 유레카 이론](https://www.acmicpc.net/problem/10448)|브론즈 2|x|x|x|x|x|-|
-|13|[3085 사탕 게임](https://www.acmicpc.net/problem/3085)|실버 4|x|x|x|x|x|-|
-|14|[9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|실버 3|x|x|x|x|x|-|
-|15|[16930 달리기](https://www.acmicpc.net/problem/16930)|플레 2|x|x|x|x|x|-|
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)      | 실버 2   | x    | x    | x    | x    | x    | -    |
+| 2    | [1303 전투](https://www.acmicpc.net/problem/1303)           | 실버 1   | x    | x    | x    | x    | x    | -    |
+| 3    | [2178 미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1   | x    | x    | x    | x    | x    | -    |
+| 4    | [1743 음식물 피하기](https://www.acmicpc.net/problem/1743)  | 실버 1   | x    | x    | x    | x    | x    | -    |
+| 5    | [2606 바이러스](https://www.acmicpc.net/problem/2606)       | 실버 3   | x    | x    | x    | x    | x    | -    |
+| 6    | [16953 A -> B](https://www.acmicpc.net/problem/16953)       | 실버 1   | x    | x    | x    | x    | x    | -    |
+| 7    | [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)   | 골드 5   | x    | x    | x    | x    | x    | -    |
+| 8    | [2503 숫자야구](https://www.acmicpc.net/problem/2503)       | 실버 5   | x    | x    | x    | x    | x    | -    |
+| 9    | [2231 분해합](https://www.acmicpc.net/problem/2231)         | 브론즈 2 | x    | x    | x    | x    | x    | -    |
+| 10   | [14226 이모티콘](https://www.acmicpc.net/problem/14226)     | 골드 5   | x    | x    | x    | x    | x    | -    |
+| 11   | [17086 아기 상어2](https://www.acmicpc.net/problem/17086)   | 실버 1   | x    | x    | x    | x    | x    | -    |
+| 12   | [10448 유레카 이론](https://www.acmicpc.net/problem/10448)  | 브론즈 2 | x    | x    | x    | x    | x    | -    |
+| 13   | [3085 사탕 게임](https://www.acmicpc.net/problem/3085)      | 실버 4   | x    | x    | x    | x    | x    | -    |
+| 14   | [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | x    | x    | x    | x    | x    | -    |
+| 15   | [16930 달리기](https://www.acmicpc.net/problem/16930)       | 플레 2   | x    | x    | x    | x    | x    | -    |
 
 ### 3. 다이나믹 프로그래밍 (DP)
 
