@@ -38,12 +38,12 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 |---|---|---|---|---|---|---|---|---|
 |1|[2875 대회 Or 인턴](https://www.acmicpc.net/problem/2875)|브론즈 3|o|o|o|o|o|-|
 |2|[10610 30](https://www.acmicpc.net/problem/10610)|실버 5|o|o|o|o|o|-|
-|3|[1783 병든 나이트](https://www.acmicpc.net/problem/1783)|실버 5|o|x|o|o|o|-|
-|4|[1931 회의실 배정](https://www.acmicpc.net/problem/1931)|실버 2|o|x|o|x|o|-|
+|3|[1783 병든 나이트](https://www.acmicpc.net/problem/1783)|실버 5|o|o|o|o|o|-|
+|4|[1931 회의실 배정](https://www.acmicpc.net/problem/1931)|실버 2|o|o|o|x|o|-|
 |5|[11399 ATM](https://www.acmicpc.net/problem/11399)|실버 3|o|o|o|o|o|-|
 |6|[2217 로프](https://www.acmicpc.net/problem/2217)|실버 4|o|o|o|x|o|-|
-|7|[13458 시험감독](https://www.acmicpc.net/problem/13458)|브론즈 2|o|x|o|o|o|-|
-|8|[1946 신입 사원](https://www.acmicpc.net/problem/1946)|실버 1|o|x|o|x|o|-|
+|7|[13458 시험감독](https://www.acmicpc.net/problem/13458)|브론즈 2|o|o|o|o|o|-|
+|8|[1946 신입 사원](https://www.acmicpc.net/problem/1946)|실버 1|o|o|o|x|o|-|
 |9|[4796 캠핑](https://www.acmicpc.net/problem/4796)|실버 5|o|x|o|x|x|-|
 |10|[1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|실버 2|o|x|o|x|x|-|
 |11|[12845 모두의 마블](https://www.acmicpc.net/problem/12845)|실버 2|o|x|o|x|x|-|
