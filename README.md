@@ -59,8 +59,8 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)      | 실버 2   | -    | -    | -    | -    | -    | -    |
-| 2    | [1303 전투](https://www.acmicpc.net/problem/1303)           | 실버 1   | -    | -    | -    | -    | -    | -    |
+| 1    | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)      | 실버 2   | -    | o  | -    | -    | -    | -    |
+| 2    | [1303 전투](https://www.acmicpc.net/problem/1303)           | 실버 1   | -    | o   | -    | -    | -    | -    |
 | 3    | [2178 미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1   | -    | -    | -    | -    | -    | -    |
 | 4    | [1743 음식물 피하기](https://www.acmicpc.net/problem/1743)  | 실버 1   | -    | -    | -    | -    | -    | -    |
 | 5   | [17086 아기 상어2](https://www.acmicpc.net/problem/17086)   | 실버 1   | -    | -    | -    | -    | -    | -    |
