@@ -48,9 +48,9 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 |10|[1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|실버 2|o|-|o|o|-|-|
 |11|[12845 모두의 마블](https://www.acmicpc.net/problem/12845)|실버 2|o|-|o|o|-|-|
 |12|[1969 DNA](https://www.acmicpc.net/problem/1969)|실버 5|o|-|o|-|-|-|
-|13|[11047 동전0](https://www.acmicpc.net/problem/11047)|실버 1|-| -    |-|o|-|-|
-|14|[1202 보석 도둑](https://www.acmicpc.net/problem/1202)|골드 2|-|-|-|-|-|-|
-|15|[1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|골드 2|-|-|-|x|-|-|
+|13|[11047 동전0](https://www.acmicpc.net/problem/11047)|실버 1|o| -    |-|o|-|-|
+|14|[1202 보석 도둑](https://www.acmicpc.net/problem/1202)|골드 2|x|-|-|-|-|-|
+|15|[1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|골드 2|x|-|-|x|-|-|
 
 
 ### 2. 완전 탐색 (DFS & BFS)
