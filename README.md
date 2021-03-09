@@ -61,8 +61,8 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)      | 실버 2   | -    | o  | -    | -    | -    | -    |
 | 2    | [1303 전투](https://www.acmicpc.net/problem/1303)           | 실버 1   | -    | o   | -    | -    | -    | -    |
-| 3    | [2178 미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1   | -    | -    | -    | -    | -    | -    |
-| 4    | [1743 음식물 피하기](https://www.acmicpc.net/problem/1743)  | 실버 1   | -    | -    | -    | -    | -    | -    |
+| 3    | [2178 미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1   | -    | o  | -    | -    | -    | -    |
+| 4    | [1743 음식물 피하기](https://www.acmicpc.net/problem/1743)  | 실버 1   | -    | o  | -    | -    | -    | -    |
 | 5   | [17086 아기 상어2](https://www.acmicpc.net/problem/17086)   | 실버 1   | -    | -    | -    | -    | -    | -    |
 | 6    | [16953 A -> B](https://www.acmicpc.net/problem/16953)       | 실버 1   | -    | -    | -    | -    | -    | -    |
 | 7    | [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)   | 골드 5   | -    | -    | -    | -    | -    | -    |
