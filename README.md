@@ -63,11 +63,11 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 | 2    | [1303 전투](https://www.acmicpc.net/problem/1303)           | 실버 1   | -    | o   | o   | o    | o    | -    |
 | 3    | [2178 미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1   | -    | o  | o    | o    | -    | -    |
 | 4    | [1743 음식물 피하기](https://www.acmicpc.net/problem/1743)  | 실버 1   | -    | o  | o    | x    | -    | -    |
-| 5   | [17086 아기 상어2](https://www.acmicpc.net/problem/17086)   | 실버 1   | -    | -    | o   | o    | -    | -    |
-| 6    | [16953 A -> B](https://www.acmicpc.net/problem/16953)       | 실버 1   | -    | -    | o   | o   | -    | -    |
+| 5   | [17086 아기 상어2](https://www.acmicpc.net/problem/17086)   | 실버 1   | -    | o | o   | o    | -    | -    |
+| 6    | [16953 A -> B](https://www.acmicpc.net/problem/16953)       | 실버 1   | -   | x   | o   | o   | -    | -    |
 | 7    | [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)   | 골드 5   | -    | -    | -    | x    | -    | -    |
-| 8    | [2503 숫자야구](https://www.acmicpc.net/problem/2503)       | 실버 5   | -    | -    | -    | -    | -    | -    |
-| 9    | [2231 분해합](https://www.acmicpc.net/problem/2231)         | 브론즈 2 | -    | -    | -    | -    | -    | -    |
+| 8    | [2503 숫자야구](https://www.acmicpc.net/problem/2503)       | 실버 5   | -    | x   | -    | -    | -    | -    |
+| 9    | [2231 분해합](https://www.acmicpc.net/problem/2231)         | 브론즈 2 | -    | o  | -    | -    | -    | -    |
 | 10   | [14226 이모티콘](https://www.acmicpc.net/problem/14226)     | 골드 5   | -    | -    | -    | -    | -    | -    |
 | 11    | [2606 바이러스](https://www.acmicpc.net/problem/2606)       | 실버 3   | -    | -    | -    | o    | -    | -    |
 | 12   | [10448 유레카 이론](https://www.acmicpc.net/problem/10448)  | 브론즈 2 | -    | -    | -    | -    | -    | -    |
