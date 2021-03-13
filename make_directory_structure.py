@@ -23,5 +23,10 @@ os.mkdir('./{}/{}/input'.format(file_path_1, file_path_2))
 
 for item in items:
     algo_title = item.get_text()
-    f = open('./{}/{}/{}.py'.format(file_path_1, file_path_2, algo_title), 'w')
-    f = open('./{}/{}/input/{}.txt'.format(file_path_1, file_path_2, algo_title), 'w')
+    print(algo_title)
+    algo_f = open('./{}/{}/{}.py'.format(file_path_1, file_path_2, algo_title), 'w', encoding='UTF8')
+
+    algo_f.write('import sys\n')
+    algo_f.write("sys.stdin = open('input/{}.txt', 'r')".format(algo_title))
+
+    input_f = open('./{}/{}/input/{}.txt'.format(file_path_1, file_path_2, algo_title), 'w')
