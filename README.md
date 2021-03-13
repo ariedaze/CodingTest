@@ -90,8 +90,8 @@ python make_directory_structure.py 이동규 탐욕
 | 11    | [boj_2606_바이러스](https://www.acmicpc.net/problem/2606)  | 실버 3   | -    | -    | o   | o   | o   | -   | -    |
 | 12   | [boj_10448_유레카 이론](https://www.acmicpc.net/problem/10448) | 브론즈 2 | -    | -    | -    | -    | -    | -   | -    |
 | 13   | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4   | -    | -    | -    | -    | -    | -   | -    |
-| 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | -    | -   | -    |
-| 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | -    | -   | -    |
+| 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | o    | -   | -    |
+| 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | -    | x  | -    |
 
 ### 3. 다이나믹 프로그래밍 (DP)
 
