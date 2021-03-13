@@ -25,6 +25,24 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 
 `commit -m '준현 -S: boj_1590, boj_1349, -F: swea_1345'` : -S 뒤에는 푼 문제, -F 뒤에는 못 푼 문제(코드 리뷰를 하기 위한것)
 
+### 파일 구조 자동생성
+
+README.md 에 주어진 주제 명(h3로 쓰여진)과 테이블로 파일 구조를 자동생성합니다.
+
+```
+# 다음 두 모듈을 import 한다
+pip install BeautifulSoup
+pip install markdown
+
+# CodingTest/make_directory_structure.py 를 실행한다.
+# 첫 번째 인자는 본인의 이름
+# 두 번째 인자는 식별 가능 주제 어휘 ex) 탐욕 알고리즘 => 탐욕, BFS & DFS => BFS 또는 DFS
+
+python make_directory_structure.py 이동규 탐욕
+
+# 이렇게 하면 'CodingTest/이동규/탐욕' 디렉토리 아래 풀어야 하는 알고리즘 파일과 input 디렉토리 및 파일을 자동으로 생성해준다.
+```
+
 
 
 ## 커리큘럼
@@ -55,25 +73,25 @@ SW Expert Academy : `swea_(문제번호)_(문제이름)`
 
 ### 2. 완전 탐색 (DFS & BFS)
 
-[DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo)
+[DFS & BFS 강의
 
-| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 비고 |
-| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)      | 실버 2   | -    | o  | o    | -    | -    | -    |
-| 2    | [1303 전투](https://www.acmicpc.net/problem/1303)           | 실버 1   | -    | o   | o    | -    | -    | -    |
-| 3    | [2178 미로 탐색](https://www.acmicpc.net/problem/2178)      | 실버 1   | -    | o  | o    | -    | -    | -    |
-| 4    | [1743 음식물 피하기](https://www.acmicpc.net/problem/1743)  | 실버 1   | -    | o  | o    | -    | -    | -    |
-| 5   | [17086 아기 상어2](https://www.acmicpc.net/problem/17086)   | 실버 1   | -    | -    | o   | -    | -    | -    |
-| 6    | [16953 A -> B](https://www.acmicpc.net/problem/16953)       | 실버 1   | -    | -    | o   | -    | -    | -    |
-| 7    | [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)   | 골드 5   | -    | -    | o   | -    | -    | -    |
-| 8    | [2503 숫자야구](https://www.acmicpc.net/problem/2503)       | 실버 5   | -    | -   | o   | -    | -    | -    |
-| 9    | [2231 분해합](https://www.acmicpc.net/problem/2231)         | 브론즈 2 | -    | -    | o   | -    | -    | -    |
-| 10   | [14226 이모티콘](https://www.acmicpc.net/problem/14226)     | 골드 5   | -    | -    | o   | -    | -    | -    |
-| 11    | [2606 바이러스](https://www.acmicpc.net/problem/2606)       | 실버 3   | -    | -    | o   | -    | -    | -    |
-| 12   | [10448 유레카 이론](https://www.acmicpc.net/problem/10448)  | 브론즈 2 | -    | -    | -    | -    | -    | -    |
-| 13   | [3085 사탕 게임](https://www.acmicpc.net/problem/3085)      | 실버 4   | -    | -    | -    | -    | -    | -    |
-| 14   | [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | -    | -    |
-| 15   | [16930 달리기](https://www.acmicpc.net/problem/16930)       | 플레 2   | -    | -    | -    | -    | -    | -    |
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [boj_1260_DFS와 BFS](https://www.acmicpc.net/problem/1260) | 실버 2   | -    | o  | o    | -    | -    | o  | -    |
+| 2    | [boj_1303_전투](https://www.acmicpc.net/problem/1303)      | 실버 1   | -    | o   | o    | -    | -    | o  | -    |
+| 3    | [boj_2178_미로 탐색](https://www.acmicpc.net/problem/2178) | 실버 1   | -    | o  | o    | -    | -    | o  | -    |
+| 4    | [boj_1743_음식물 피하기](https://www.acmicpc.net/problem/1743) | 실버 1   | -    | o  | o    | -    | -    | o  | -    |
+| 5   | [boj_17086_아기 상어2](https://www.acmicpc.net/problem/17086) | 실버 1   | -    | -    | o   | -    | -    | -   | -    |
+| 6    | [boj_16953_A to B](https://www.acmicpc.net/problem/16953) | 실버 1   | -    | -    | o   | -    | -    | -   | -    |
+| 7    | [boj_12851_숨바꼭질 2](https://www.acmicpc.net/problem/12851) | 골드 5   | -    | -    | o   | -    | -    | -   | -    |
+| 8    | [boj_2503_숫자야구](https://www.acmicpc.net/problem/2503)  | 실버 5   | -    | -    | o   | -    | -    | -   | -    |
+| 9    | [boj_2231_분해합](https://www.acmicpc.net/problem/2231)    | 브론즈 2 | -    | -    | o   | -    | -    | -   | -    |
+| 10   | [boj_14226_이모티콘](https://www.acmicpc.net/problem/14226) | 골드 5   | -    | -    | o   | -    | -    | -   | -    |
+| 11    | [boj_2606_바이러스](https://www.acmicpc.net/problem/2606)  | 실버 3   | -    | -    | o   | -    | -    | -   | -    |
+| 12   | [boj_10448_유레카 이론](https://www.acmicpc.net/problem/10448) | 브론즈 2 | -    | -    | -    | -    | -    | -   | -    |
+| 13   | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4   | -    | -    | -    | -    | -    | -   | -    |
+| 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | -    | -   | -    |
+| 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | -    | -   | -    |
 
 ### 3. 다이나믹 프로그래밍 (DP)
 
