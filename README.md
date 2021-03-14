@@ -31,7 +31,8 @@ README.md 에 주어진 주제 명(h3로 쓰여진)과 테이블로 파일 구�
 
 ```
 # 다음 두 모듈을 import 한다
-pip install BeautifulSoup
+# BeautifulSoup4는 pip install --upgrade pip 가 필요할 수 있다.
+pip install BeautifulSoup4
 pip install markdown
 
 # CodingTest/make_directory_structure.py 를 실행한다.
