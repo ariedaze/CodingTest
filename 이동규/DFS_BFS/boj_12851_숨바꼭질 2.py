@@ -1,40 +1,42 @@
 import sys
 sys.stdin = open('input/boj_12851_숨바꼭질 2.txt', 'r')
+from collections import deque
 
-def dfs(num, count):
+def dfs(info):
     global MIN, duplicat_num
 
-    if num > B * 2:
-        return
-    if num == B and count < MIN:
-        MIN = count
-        duplicat_num = 1
-    if num == B and count == MIN:
-        duplicat_num += 1
+    queue = deque()
+    queue.append(info)
 
+    while queue:
+        n, c = queue.popleft()
 
-    if 0 <= num*2 < 100001 and visit[num*2] > count:
-        visit[num*2] = count
-        dfs(num*2, count+1)
+        if n == B and c < MIN:
+            MIN = c
+            duplicat_num = 1
+            continue
+        if n == B and c == MIN:
+            duplicat_num += 1
+            continue
 
-    if 0 <= num + 1 < 100001 and visit[num + 1] > count:
-        visit[num + 1] = count
-        dfs(num + 1, count + 1)
-
-    if 0 <= num - 1 < 100001 and visit[num - 1] > count:
-        visit[num - 1] = count
-        dfs(num - 1, count + 1)
+        for i in range(3):
+            if i == 0 and n * 2 < 100001 and visit[n * 2] > c:
+                visit[n * 2] = c + 1
+                queue.append([n * 2, c + 1])
+            elif i == 1 and n + 1 <= B and visit[n + 1] > c:
+                visit[n + 1] = c + 1
+                queue.append([n + 1, c + 1])
+            elif i == 2 and 0 <= n - 1 and visit[n - 1] > c:
+                visit[n - 1] = c + 1
+                queue.append([n - 1, c + 1])
 
 A, B = list(map(int, input().split()))
-MIN = 99999
-visit = [99999 for _ in range(100001)]
+MIN = 100001
+visit = [100001 for _ in range(100001)]
 visit[A] = 0
 duplicat_num = 1
 
-dfs(A, 0)
+dfs([A, 0])
 
-if MIN == 99999:
-    print(-1)
-else:
-    print(MIN)
-    print(duplicat_num)
+print(MIN)
+print(duplicat_num)
