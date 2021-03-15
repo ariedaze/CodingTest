@@ -88,7 +88,7 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [boj_2503_숫자야구](https://www.acmicpc.net/problem/2503)  | 실버 5   | o   | o  | o   | -    | o   | x   | -    |
 | 9    | [boj_2231_분해합](https://www.acmicpc.net/problem/2231)    | 브론즈 2 | o   | o   | o   | -    | -    | o   | -    |
 | 10   | [boj_14226_이모티콘](https://www.acmicpc.net/problem/14226) | 골드 5   | -    | x  | o   | -    | -    | -   | -    |
-| 11    | [boj_2606_바이러스](https://www.acmicpc.net/problem/2606)  | 실버 3   | o   | -    | o   | o   | o   | -   | -    |
+| 11    | [boj_2606_바이러스](https://www.acmicpc.net/problem/2606)  | 실버 3   | o   | o   | o   | o   | o   | -   | -    |
 | 12   | [boj_10448_유레카 이론](https://www.acmicpc.net/problem/10448) | 브론즈 2 | -    | -    | -    | -    | -    | x   | -    |
 | 13   | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4   | -    | -    | -    | -    | -    | -   | -    |
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | o    | -   | -    |
