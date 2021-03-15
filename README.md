@@ -48,9 +48,7 @@ python make_directory_structure.py 이동규 탐욕
 
 ## 커리큘럼
 
-### 1. 탐욕 알고리즘(Greedy Algorithm)
-
-[탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ)
+### 1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ)
 
 
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
@@ -72,9 +70,7 @@ python make_directory_structure.py 이동규 탐욕
 |15|[1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|골드 2|x|-|-|x|-|-|
 
 
-### 2. 완전 탐색 (DFS & BFS)
-
-[DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo)
+### 2. 완전 탐색 (DFS & BFS)  [DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo)
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -93,7 +89,6 @@ python make_directory_structure.py 이동규 탐욕
 | 13   | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4   | -    | -    | -    | -    | o    | -   | -    |
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | o    | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | x  | -  | -    |
-
 
 ### 3. 모의 SW 역량테스트 A형 대비 & 그리디, 완전 탐색
 
@@ -115,6 +110,4 @@ python make_directory_structure.py 이동규 탐욕
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | 풀음 | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | - | -  | -    |
 
-### 4. 다이나믹 프로그래밍 (DP)
-
-[다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us)
+### 4. 다이나믹 프로그래밍 (DP) [다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us)
