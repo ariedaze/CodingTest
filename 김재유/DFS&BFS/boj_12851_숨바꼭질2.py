@@ -1,10 +1,22 @@
 import sys; sys.stdin = open('input_data/12851.txt')
-sys.setrecursionlimit(100000)
+from collections import deque
 
-def DFS(number, depth):
-    global fast
-    global result
-    if depth > fast: return
+now, target = map(int, input().split())
+fast = abs(target-now)
+result = 0
+Q = deque()
+Q.append([now, 0])
+visit = [0] * 100001
+while Q:
+    number, depth = Q.popleft()
+    if visit[number]:
+        if visit[number] < depth:
+            continue
+        else:
+            visit[number] = depth
+    else:
+        visit[number] = depth
+
     if target == number:
         if fast > depth:
             fast = depth
@@ -12,13 +24,12 @@ def DFS(number, depth):
         elif fast == depth:
             result += 1
     else:
-        DFS(number*2, depth+1)
-        DFS(number+1, depth+1)
-        DFS(number-1, depth+1)
-
-now, target = map(int, input().split())
-fast = target-now
-result = 0
-DFS(now, 0)
+        if depth + 1 <= fast:
+            if number*2 < 100001:
+                Q.append([number*2, depth+1])
+            if number < 100000:
+                Q.append([number+1, depth+1])
+            if number > 0:
+                Q.append([number-1, depth+1])
 print(fast)
 print(result)
