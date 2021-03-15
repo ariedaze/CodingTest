@@ -108,10 +108,10 @@ python make_directory_structure.py 이동규 탐욕
 | 7    | [swea_5644_무선충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 모의 A | -    | -   | -  | -  | -  | -  | -    |
 | 8    | [boj_11047 동전0](https://www.acmicpc.net/problem/11047) | 실버 1  | 풀음 | -  | -  | 풀음 | -  | -  | -    |
 | 9    | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4 | -    | -  | -  | -    | -    | -  | -    |
-| 10   | [boj_1202 보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 | -    | -    | -  | -    | -    | -   | -    |
-| 11    | [boj_1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | 골드 2 | -    | -    | -  | -  | -  | -   | -    |
+| 10   | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 | -    | -    | -  | -    | -    | -   | -    |
+| 11    | [boj_1700_멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | 골드 2 | -    | -    | -  | -  | -  | -   | -    |
 | 12   | [boj_10448_유레카 이론](https://www.acmicpc.net/problem/10448) | 브론즈 2 | -    | -    | -    | -    | -    | -  | -    |
-| 13   | [boj_1969 DNA](https://www.acmicpc.net/problem/1969) | 실버 5 | -    | -    | -    | -    | -    | -   | -    |
+| 13   | [boj_1969_DNA](https://www.acmicpc.net/problem/1969) | 실버 5 | -    | -    | -    | -    | -    | -   | -    |
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | 풀음 | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | - | -  | -    |
 
