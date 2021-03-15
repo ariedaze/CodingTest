@@ -16,7 +16,7 @@ with open('./README.md', 'r', encoding='UTF8') as f:
     html = markdown.markdown(text)
 
 soup = BeautifulSoup(html, "html.parser")
-items = soup.find('h3', text=re.compile(file_path_2)).find_next_siblings()[1].find_all('a')
+items = soup.find('h3', text=re.compile(file_path_2)).find_next_siblings()[0].find_all('a')
 
 os.mkdir('./{}/{}'.format(file_path_1, file_path_2))
 os.mkdir('./{}/{}/input'.format(file_path_1, file_path_2))
