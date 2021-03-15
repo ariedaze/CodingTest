@@ -82,7 +82,7 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [boj_1303_전투](https://www.acmicpc.net/problem/1303)      | 실버 1   | o   | o   | o    | o   | o   | o  | -    |
 | 3    | [boj_2178_미로 탐색](https://www.acmicpc.net/problem/2178) | 실버 1   | o   | o  | o    | o  | o   | o  | -    |
 | 4    | [boj_1743_음식물 피하기](https://www.acmicpc.net/problem/1743) | 실버 1   | o   | o  | o    | x   | o   | o  | -    |
-| 5   | [boj_17086_아기 상어2](https://www.acmicpc.net/problem/17086) | 실버 1   | o   | o   | o   | o   | o    | -   | -    |
+| 5   | [boj_17086_아기 상어2](https://www.acmicpc.net/problem/17086) | 실버 1   | o   | o   | o   | o   | o    | o   | -    |
 | 6    | [boj_16953_A to B](https://www.acmicpc.net/problem/16953) | 실버 1   | o   | x   | o   | o   | -    | o   | -    |
 | 7    | [boj_12851_숨바꼭질 2](https://www.acmicpc.net/problem/12851) | 골드 5   | o   | -    | o   | x   | o   | o   | -    |
 | 8    | [boj_2503_숫자야구](https://www.acmicpc.net/problem/2503)  | 실버 5   | o   | x   | o   | -    | o   | x   | -    |
