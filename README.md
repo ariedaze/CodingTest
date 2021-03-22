@@ -101,13 +101,13 @@ python make_directory_structure.py 이동규 탐욕
 | 5   | [swea_5656_벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 모의 A | -    | -  | o | -  | -   | -  | -    |
 | 6    | [swea_2117_홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) | 모의 A | -    | -  | o | -  | -   | -  | -    |
 | 7    | [swea_5644_무선충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 모의 A | -    | -   | o | -  | o  | -  | -    |
-| 8    | [boj_11047_동전0](https://www.acmicpc.net/problem/11047) | 실버 1  | 풀음 | -  | -  | 풀음 | -  | -  | -    |
-| 9    | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4 | -    | -  | -  | -    | -    | -  | -    |
+| 8    | [boj_11047_동전0](https://www.acmicpc.net/problem/11047) | 실버 1  | 풀음 | -  | o | 풀음 | -  | -  | -    |
+| 9    | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4 | -    | -  | o | -    | -    | -  | -    |
 | 10   | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 | -    | -    | -  | -    | -    | -   | -    |
 | 11    | [boj_1700_멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | 골드 2 | -    | -    | -  | -  | -  | -   | -    |
 | 12   | [boj_10448_유레카 이론](https://www.acmicpc.net/problem/10448) | 브론즈 2 | -    | -    | -    | -    | -    | -  | -    |
 | 13   | [boj_1969_DNA](https://www.acmicpc.net/problem/1969) | 실버 5 | -    | -    | -    | -    | -    | -   | -    |
-| 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | 풀음 | -   | -    |
+| 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | o   | -    | 풀음 | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | - | -  | -    |
 
 ### 4. 다이나믹 프로그래밍 (DP) [다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us)
