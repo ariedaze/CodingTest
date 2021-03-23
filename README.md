@@ -113,11 +113,11 @@ python make_directory_structure.py 이동규 탐욕
 ### 4. 다이나믹 프로그래밍 (DP) [다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us)
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_2748_피보나치 수 2](https://www.acmicpc.net/problem/2748) | 브론즈 1 | -    | -  | -  | -  | - | - | -    |
-| 2    | [boj_9095_123더하기](https://www.acmicpc.net/problem/9095) | 실버 3 | -    | -  | -  | -  | -  | - | -    |
-| 3    | [boj_2579_계단오르기](https://www.acmicpc.net/problem/2579) | 실버 3 | -   | - | - | - | -  | - | -    |
-| 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | -    | - | -  | -  | -  | - | -    |
-| 5   | [boj_11722_가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | -    | - | -    | -  | -   | -  | -    |
+| 1    | [boj_2748_피보나치 수 2](https://www.acmicpc.net/problem/2748) | 브론즈 1 | -    | -  | o | -  | - | - | -    |
+| 2    | [boj_9095_123더하기](https://www.acmicpc.net/problem/9095) | 실버 3 | -    | -  | o | -  | -  | - | -    |
+| 3    | [boj_2579_계단오르기](https://www.acmicpc.net/problem/2579) | 실버 3 | -   | - | o | - | -  | - | -    |
+| 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | -    | - | o | -  | -  | - | -    |
+| 5   | [boj_11722_가장 어쩌고 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | -    | - | -    | -  | -   | -  | -    |
 | 6    | [boj_15486_퇴사2](https://www.acmicpc.net/problem/15486) | 실버 1 | -    | -  | - | -  | -   | -  | -    |
 | 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | -    | -   | - | -  | -  | -  | -    |
 | 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | - | - | -  | -  | -    |
