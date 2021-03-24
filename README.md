@@ -117,7 +117,7 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [boj_9095_123더하기](https://www.acmicpc.net/problem/9095) | 실버 3 | -    | -  | o | -  | -  | - | -    |
 | 3    | [boj_2579_계단오르기](https://www.acmicpc.net/problem/2579) | 실버 3 | -   | - | o | - | -  | - | -    |
 | 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | -    | - | o | -  | -  | - | -    |
-| 5   | [boj_11722_가장 어쩌고 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | -    | - | -    | -  | -   | -  | -    |
+| 5   | [boj_11722_가장 감소 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | -    | - | o   | -  | -   | -  | -    |
 | 6    | [boj_15486_퇴사2](https://www.acmicpc.net/problem/15486) | 실버 1 | -    | -  | - | -  | -   | -  | -    |
 | 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | -    | -   | - | -  | -  | -  | -    |
 | 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | - | - | -  | -  | -    |
