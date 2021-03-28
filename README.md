@@ -61,7 +61,7 @@ python make_directory_structure.py 이동규 탐욕
 |6|[2217 로프](https://www.acmicpc.net/problem/2217)|실버 4|o|o|o|o|o|-|
 |7|[13458 시험감독](https://www.acmicpc.net/problem/13458)|브론즈 2|o|o|o|o|o|-|
 |8|[1946 신입 사원](https://www.acmicpc.net/problem/1946)|실버 1|o|o|o|x|o|-|
-|9|[4796 캠핑](https://www.acmicpc.net/problem/4796)|실버 5|o|-|o|o|-|-|
+|9|[4796 캠핑](https://www.acmicpc.net/problem/4796)|실버 5|o|o|o|o|-|-|
 |10|[1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|실버 2|o|-|o|o|-|-|
 |11|[12845 모두의 마블](https://www.acmicpc.net/problem/12845)|실버 2|o|-|o|o|-|-|
 |12|[1969 DNA](https://www.acmicpc.net/problem/1969)|실버 5|o|-|o|-|-|-|
@@ -119,7 +119,7 @@ python make_directory_structure.py 이동규 탐욕
 | 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | o   | o | o | o  | o | -    |
 | 5   | [boj_11722_가장 감소 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | o   | o | o   | o   | o | -    |
 | 6    | [boj_15486_퇴사2](https://www.acmicpc.net/problem/15486) | 실버 1 | o   | o | o | o  | o | -    |
-| 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | o   | -   | o | o | -  | -    |
+| 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | o   | o | o | o | -  | -    |
 | 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | o | - | -  | -    |
 | 9    | [boj_11049_행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 골드 3 | -    | -  | - | -    | -  | -    |
 | 10   | [boj_9252_LCS 2](https://www.acmicpc.net/problem/9252) | 골드 5 | -    | -    | -  | -    |  -   | -    |
