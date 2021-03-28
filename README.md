@@ -119,8 +119,8 @@ python make_directory_structure.py 이동규 탐욕
 | 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | -    | - | o | -  | -  | o | -    |
 | 5   | [boj_11722_가장 감소 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | -    | - | o   | -  | -   | o | -    |
 | 6    | [boj_15486_퇴사2](https://www.acmicpc.net/problem/15486) | 실버 1 | -    | -  | o | -  | -   | o | -    |
-| 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | -    | -   | - | -  | -  | -  | -    |
-| 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | - | - | -  | -  | -    |
+| 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | -    | -   | o | -  | -  | -  | -    |
+| 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | o | - | -  | -  | -    |
 | 9    | [boj_11049_행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 골드 3 | -    | -  | - | -    | -    | -  | -    |
 | 10   | [boj_9252_LCS 2](https://www.acmicpc.net/problem/9252) | 골드 5 | -    | -    | -  | -    | -    | -   | -    |
 | 11    | [boj_1562_계단수](https://www.acmicpc.net/problem/1562) | 골드 1 | -    | -    | -  | -  | -  | -   | -    |
