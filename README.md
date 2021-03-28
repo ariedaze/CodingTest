@@ -111,25 +111,42 @@ python make_directory_structure.py 이동규 탐욕
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | - | -  | -    |
 
 ### 4. 다이나믹 프로그래밍 (DP) [다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us)
-| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
-| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_2748_피보나치 수 2](https://www.acmicpc.net/problem/2748) | 브론즈 1 | o   | o | o | -  | o | o | -    |
-| 2    | [boj_9095_123더하기](https://www.acmicpc.net/problem/9095) | 실버 3 | o   | o | o | -  | o  | o | -    |
-| 3    | [boj_2579_계단오르기](https://www.acmicpc.net/problem/2579) | 실버 3 | o | o | o | - | o | o | -    |
-| 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | o   | o | o | -  | o  | o | -    |
-| 5   | [boj_11722_가장 감소 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | o   | o | o   | -  | o   | o | -    |
-| 6    | [boj_15486_퇴사2](https://www.acmicpc.net/problem/15486) | 실버 1 | o   | o | o | -  | o  | o | -    |
-| 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | o   | -   | o | -  | o | -  | -    |
-| 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | o | - | -  | -  | -    |
-| 9    | [boj_11049_행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 골드 3 | -    | -  | - | -    | -    | -  | -    |
-| 10   | [boj_9252_LCS 2](https://www.acmicpc.net/problem/9252) | 골드 5 | -    | -    | -  | -    | -    | -   | -    |
-| 11    | [boj_1562_계단수](https://www.acmicpc.net/problem/1562) | 골드 1 | -    | -    | -  | -  | -  | -   | -    |
-| 12   | [boj_11570_환상의 듀엣](https://www.acmicpc.net/problem/11570) | 플레 5 | -    | -    | -    | -    | -    | -  | -    |
-| 13   | [boj_2618_경찰차](https://www.acmicpc.net/problem/2618) | 플레 5 | -    | -    | -    | -    | -    | -   | -    |
-| 14   | [boj_6989_채점](https://www.acmicpc.net/problem/6989) | 플레 3 | -    | -    | -   | -    | - | -   | -    |
-| 15   | [boj_2315_가로등 끄기](https://www.acmicpc.net/problem/2315) | 플레 3 | -    | -    | -    | -    | - | -  | -    |
-| 16 | [boj_1126_같은 탑](https://www.acmicpc.net/problem/1126) | 플레 2 | - | - | - | - | - | - | - |
-| 17 | [boj_1315_RPG](https://www.acmicpc.net/problem/1315) | 플레 2 | - | - | - | - | - | - | - |
-| 18 | [boj_2419_사수아탕](https://www.acmicpc.net/problem/2419) | 플레 1 | - | - | - | - | - | - | - |
-| 19 | [boj_12766_지사배정](https://www.acmicpc.net/problem/12766) | 다이아 5 | - | - | - | - | - | - | - |
-| 20 | [boj_5466_상인](https://www.acmicpc.net/problem/5466) | 다이아 5 | - | - | - | - | - | - | - |
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [boj_2748_피보나치 수 2](https://www.acmicpc.net/problem/2748) | 브론즈 1 | o   | o | o | o | o | -    |
+| 2    | [boj_9095_123더하기](https://www.acmicpc.net/problem/9095) | 실버 3 | o   | o | o | o  | o | -    |
+| 3    | [boj_2579_계단오르기](https://www.acmicpc.net/problem/2579) | 실버 3 | o | o | o | o | o | -    |
+| 4    | [boj_11726_2xn 타일링](https://www.acmicpc.net/problem/11726) | 실버 3 | o   | o | o | o  | o | -    |
+| 5   | [boj_11722_가장 감소 수열](https://www.acmicpc.net/problem/11722) | 실버 2 | o   | o | o   | o   | o | -    |
+| 6    | [boj_15486_퇴사2](https://www.acmicpc.net/problem/15486) | 실버 1 | o   | o | o | o  | o | -    |
+| 7    | [boj_1520_내리막길](https://www.acmicpc.net/problem/1520) | 골드 4 | o   | -   | o | o | -  | -    |
+| 8    | [boj_11066_파일합치기](https://www.acmicpc.net/problem/11066) | 골드 3 | - | -  | o | - | -  | -    |
+| 9    | [boj_11049_행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | 골드 3 | -    | -  | - | -    | -  | -    |
+| 10   | [boj_9252_LCS 2](https://www.acmicpc.net/problem/9252) | 골드 5 | -    | -    | -  | -    |  -   | -    |
+| 11    | [boj_1562_계단수](https://www.acmicpc.net/problem/1562) | 골드 1 | -    | -    | -  | -  | -  | -    |
+| 12   | [boj_11570_환상의 듀엣](https://www.acmicpc.net/problem/11570) | 플레 5 | -    | -    | -    | -    | -  | -    |
+| 13   | [boj_2618_경찰차](https://www.acmicpc.net/problem/2618) | 플레 5 | -    | -    | -    | -    | -   | -    |
+| 14   | [boj_6989_채점](https://www.acmicpc.net/problem/6989) | 플레 3 | -    | -    | -   | -    | - | -    |
+| 15   | [boj_2315_가로등 끄기](https://www.acmicpc.net/problem/2315) | 플레 3 | -    | -    | -    | - | -  | -    |
+| 16 | [boj_1126_같은 탑](https://www.acmicpc.net/problem/1126) | 플레 2 | - | - | - | - | - | - |
+| 17 | [boj_1315_RPG](https://www.acmicpc.net/problem/1315) | 플레 2 | - | - | - | - | - | - |
+| 18 | [boj_2419_사수아탕](https://www.acmicpc.net/problem/2419) | 플레 1 | - | - | - | - | - | - |
+| 19 | [boj_12766_지사배정](https://www.acmicpc.net/problem/12766) | 다이아 5 | - | - | - | - | - | - |
+| 20 | [boj_5466_상인](https://www.acmicpc.net/problem/5466) | 다이아 5 | - | - | - | - | - | - |
+
+### 5. 백준 특강 대비
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [boj_13706_제곱근](https://www.acmicpc.net/problem/13706) | 브론즈 1 | -    | -    | -    | -    | -    | -    |
+| 2    | [boj_16922_로마 숫자 만들기](https://www.acmicpc.net/problem/16922) | 실버 3 | -    | -    | -    | -    | -    | -    |
+| 3    | [boj_17103_골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 실버 2 | -    | -    | -    | -    | -    | -    |
+| 4    | [boj_12026_BOJ 거리](https://www.acmicpc.net/problem/12026) | 실버 1 | -    | -    | -    | -    | -    | -    |
+| 5   | [boj_16973_직사각형 탈출](https://www.acmicpc.net/problem/16973) | 골드 5 | -    | -    | -    | -    | -    | -    |
+| 6    | [boj_12907_동물원](https://www.acmicpc.net/problem/12907) | 골드 5 | -  | -    | -    | -    | -    | -    |
+| 7    | [boj_12904_A와 B](https://www.acmicpc.net/problem/12904) | 골드 5 | -    | -    | -    | -    | -    | -    |
+| 8    | [boj_10422_괄호](https://www.acmicpc.net/problem/10422) | 골드 4 | - | -  | - | - | -  | -    |
+| 9    | [boj_1242_소풍](https://www.acmicpc.net/problem/1242) | 골드 2 | -    | -  | - | -    | -  | -    |
+| 10   | [boj_11025_요세푸스 문제 3](https://www.acmicpc.net/problem/11025) | 골드 2 | -    | -    | -  | -    |  -   | -    |
+| 11    | [boj_16959_체스판 여행 1](https://www.acmicpc.net/problem/16959) | 골드 1 | -    | -    | -  | -  | -  | -    |
+| 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | -    | -    | -  | -    |
+| 13   | [boj_12967_pqr](https://www.acmicpc.net/problem/12967) | 플레 5 | -    | -    | -    | -    | -   | -    |
