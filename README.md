@@ -61,7 +61,7 @@ python make_directory_structure.py 이동규 탐욕
 |6|[2217 로프](https://www.acmicpc.net/problem/2217)|실버 4|o|o|o|o|o|-|
 |7|[13458 시험감독](https://www.acmicpc.net/problem/13458)|브론즈 2|o|o|o|o|o|-|
 |8|[1946 신입 사원](https://www.acmicpc.net/problem/1946)|실버 1|o|o|o|x|o|-|
-|9|[4796 캠핑](https://www.acmicpc.net/problem/4796)|실버 5|o|-|o|o|-|-|
+|9|[4796 캠핑](https://www.acmicpc.net/problem/4796)|실버 5|o|o|o|o|-|-|
 |10|[1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|실버 2|o|-|o|o|-|-|
 |11|[12845 모두의 마블](https://www.acmicpc.net/problem/12845)|실버 2|o|-|o|o|-|-|
 |12|[1969 DNA](https://www.acmicpc.net/problem/1969)|실버 5|o|-|o|-|-|-|
