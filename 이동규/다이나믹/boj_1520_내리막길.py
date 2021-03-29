@@ -1,28 +1,27 @@
 import sys
 sys.stdin = open('input/boj_1520_내리막길.txt', 'r')
-from collections import deque
-
+# import sys
+input = sys.stdin.readline
+sys.setrecursionlimit(10000)
 dy, dx = [-1, 1, 0, 0], [0, 0, -1, 1]
 
-def bfs():
-    queue = deque()
-    queue.append([0, 0])
-
-    while queue:
-        r, c = queue.popleft()
-
+def dfs(r, c):
+    if r == 0 and c == 0:
+        return 1
+    if memo[r][c] == -1:
+        memo[r][c] = 0
         for i in range(4):
-            dr, dc = r + dy[i], c + dx[i]
-            if 0 <= dr < ROW and 0 <= dc < COL and M[dr][dc] < M[r][c]:
-                if dr == ROW-1 and dc == COL - 1:
-                    visit[dr][dc] += 1
-                    continue
-                queue.append([dr, dc])
-                visit[dr][dc] += 1
-    return visit[ROW-1][COL-1]
+            dr, dc = r + dx[i], c + dy[i]
+            if 0 <= dr < ROW and 0 <= dc < COL and M[dr][dc] > M[r][c]:
+                memo[r][c] += dfs(dr, dc)
+    return memo[r][c]
+
+
 
 ROW, COL = list(map(int, input().split()))
 M = [list(map(int, input().split())) for i in range(ROW)]
-visit = [[0 for _ in range(COL)] for _ in range(COL)]
+memo = [[-1 for _ in range(COL)] for _ in range(ROW)]
 
-print(bfs())
+dfs(ROW-1, COL-1)
+
+print(memo[ROW-1][COL-1])
