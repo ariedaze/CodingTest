@@ -137,10 +137,10 @@ python make_directory_structure.py 이동규 탐욕
 ### 5. 백준 특강 대비
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_13706_제곱근](https://www.acmicpc.net/problem/13706) | 브론즈 1 | -    | -    | -    | -    | -    | -    |
-| 2    | [boj_16922_로마 숫자 만들기](https://www.acmicpc.net/problem/16922) | 실버 3 | -    | -    | -    | -    | -    | -    |
-| 3    | [boj_17103_골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 실버 2 | -    | -    | -    | -    | -    | -    |
-| 4    | [boj_12026_BOJ 거리](https://www.acmicpc.net/problem/12026) | 실버 1 | -    | -    | -    | -    | -    | -    |
+| 1    | [boj_13706_제곱근](https://www.acmicpc.net/problem/13706) | 브론즈 1 | -    | -    | o   | -    | -    | -    |
+| 2    | [boj_16922_로마 숫자 만들기](https://www.acmicpc.net/problem/16922) | 실버 3 | -    | -    | o   | -    | -    | -    |
+| 3    | [boj_17103_골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 실버 2 | -    | -    | o   | -    | -    | -    |
+| 4    | [boj_12026_BOJ 거리](https://www.acmicpc.net/problem/12026) | 실버 1 | -    | -    | o   | -    | -    | -    |
 | 5   | [boj_16973_직사각형 탈출](https://www.acmicpc.net/problem/16973) | 골드 5 | -    | -    | -    | -    | -    | -    |
 | 6    | [boj_12907_동물원](https://www.acmicpc.net/problem/12907) | 골드 5 | -  | -    | -    | -    | -    | -    |
 | 7    | [boj_12904_A와 B](https://www.acmicpc.net/problem/12904) | 골드 5 | -    | -    | -    | -    | -    | -    |
