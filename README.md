@@ -150,3 +150,7 @@ python make_directory_structure.py 이동규 탐욕
 | 11    | [boj_16959_체스판 여행 1](https://www.acmicpc.net/problem/16959) | 골드 1 | -    | -    | -  | -  | -  | -    |
 | 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | -    | -    | -  | -    |
 | 13   | [boj_12967_pqr](https://www.acmicpc.net/problem/12967) | 플레 5 | -    | -    | -    | -    | -   | -    |
+
+
+
+Brute Force => N과 M 1~8, NM과 K 1
