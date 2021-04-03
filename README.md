@@ -156,6 +156,10 @@ python make_directory_structure.py 이동규 탐욕
 | 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | -    | -    | -  | -    |
 | 13   | [boj_12967_pqr](https://www.acmicpc.net/problem/12967) | 플레 5 | -    | -    | -    | -    | -   | -    |
 </details>
-
+#### 문제별 핵심 개념
+제곱근 : 이분탐색
+골드바흐 파티션 : 소수 만들기(에라토스테네스의 체)
+소풍 : 원형큐
+요세푸스 문제 3 : [요세푸스 문제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C), [요세푸스 문제(꺼무위키)](https://namu.wiki/w/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)
 
 Brute Force => N과 M 1~8, NM과 K 1
