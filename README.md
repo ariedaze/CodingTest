@@ -146,7 +146,7 @@ python make_directory_structure.py 이동규 탐욕
 | 7    | [boj_12904_A와 B](https://www.acmicpc.net/problem/12904) | 골드 5 | -    | -    | o   | -    | -    | -    |
 | 8    | [boj_10422_괄호](https://www.acmicpc.net/problem/10422) | 골드 4 | - | -  | o | - | -  | -    |
 | 9    | [boj_1242_소풍](https://www.acmicpc.net/problem/1242) | 골드 2 | -    | -  | o | -    | -  | -    |
-| 10   | [boj_11025_요세푸스 문제 3](https://www.acmicpc.net/problem/11025) | 골드 2 | -    | -    | -  | -    |  -   | -    |
+| 10   | [boj_11025_요세푸스 문제 3](https://www.acmicpc.net/problem/11025) | 골드 2 | -    | -    | o | -    |  -   | -    |
 | 11    | [boj_16959_체스판 여행 1](https://www.acmicpc.net/problem/16959) | 골드 1 | -    | -    | -  | -  | -  | -    |
 | 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | -    | -    | -  | -    |
 | 13   | [boj_12967_pqr](https://www.acmicpc.net/problem/12967) | 플레 5 | -    | -    | -    | -    | -   | -    |
