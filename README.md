@@ -48,8 +48,10 @@ python make_directory_structure.py 이동규 탐욕
 
 ## 커리큘럼
 
-### 1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ)
+<br>
 
+<details>
+  <summary><h3>1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ)</h3></summary>
 
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
 |---|---|---|---|---|---|---|---|---|
@@ -68,7 +70,7 @@ python make_directory_structure.py 이동규 탐욕
 |13|[11047 동전0](https://www.acmicpc.net/problem/11047)|실버 1|o| -    |-|o|-|-|
 |14|[1202 보석 도둑](https://www.acmicpc.net/problem/1202)|골드 2|x|-|-|-|-|-|
 |15|[1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|골드 2|x|-|-|x|-|-|
-
+</details>
 
 ### 2. 완전 탐색 (DFS & BFS)  [DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo)
 
