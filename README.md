@@ -142,7 +142,7 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_13706_제곱근](https://www.acmicpc.net/problem/13706) | 브론즈 1 | o    | o  | o   | -    | o   | -    |
+| 1    | [boj_13706_제곱근](https://www.acmicpc.net/problem/13706) | 브론즈 1 | o    | o  | o   | o   | -   | -    |
 | 2    | [boj_16922_로마 숫자 만들기](https://www.acmicpc.net/problem/16922) | 실버 3 | o    | o   | o   | o    | -    | -    |
 | 3    | [boj_17103_골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 실버 2 | o    | x   | o   | o   | -    | -    |
 | 4    | [boj_12026_BOJ 거리](https://www.acmicpc.net/problem/12026) | 실버 1 | x    | x   | o   | -   | -    | -    |
