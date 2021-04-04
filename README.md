@@ -48,8 +48,8 @@ python make_directory_structure.py 이동규 탐욕
 
 ## 커리큘럼
 
-### 1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ)
-
+<details>
+  <summary><h3>1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ) [접기/펼치기]</h3></summary>
 
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
 |---|---|---|---|---|---|---|---|---|
@@ -68,9 +68,10 @@ python make_directory_structure.py 이동규 탐욕
 |13|[11047 동전0](https://www.acmicpc.net/problem/11047)|실버 1|o| -    |-|o|-|-|
 |14|[1202 보석 도둑](https://www.acmicpc.net/problem/1202)|골드 2|x|-|-|-|-|-|
 |15|[1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|골드 2|x|-|-|x|-|-|
+</details>
 
-
-### 2. 완전 탐색 (DFS & BFS)  [DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo)
+<details>
+  <summary><h3>2. 완전 탐색 (DFS & BFS)  [DFS & BFS 강의](https://youtu.be/7C9RgOcvkvo) [접기/펼치기]</h3></summary>
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -89,8 +90,9 @@ python make_directory_structure.py 이동규 탐욕
 | 13   | [boj_3085_사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 4   | -    | -    | -    | -    | o    | -   | -    |
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | o    | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | x  | -  | -    |
-
-### 3. 모의 SW 역량테스트 A형 대비 & 그리디, 완전 탐색
+</details>
+<details>
+  <summary><h3>3. 모의 SW 역량테스트 A형 대비 & 그리디, 완전 탐색 [접기/펼치기]</h3></summary>
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -109,8 +111,9 @@ python make_directory_structure.py 이동규 탐욕
 | 13   | [boj_1969_DNA](https://www.acmicpc.net/problem/1969) | 실버 5 | -    | -    | -    | -    | -    | -   | -    |
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | o   | -    | 풀음 | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | - | -  | -    |
-
-### 4. 다이나믹 프로그래밍 (DP) [다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us)
+</details>
+<details>
+  <summary><h3>4. 다이나믹 프로그래밍 (DP) [다이나믹 프로그래밍 강의](https://youtu.be/5Lu34WIx2Us) [접기/펼치기]</h3></summary>
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | [boj_2748_피보나치 수 2](https://www.acmicpc.net/problem/2748) | 브론즈 1 | o   | o | o | o | o | -    |
@@ -133,8 +136,10 @@ python make_directory_structure.py 이동규 탐욕
 | 18 | [boj_2419_사수아탕](https://www.acmicpc.net/problem/2419) | 플레 1 | - | - | - | - | - | - |
 | 19 | [boj_12766_지사배정](https://www.acmicpc.net/problem/12766) | 다이아 5 | - | - | - | - | - | - |
 | 20 | [boj_5466_상인](https://www.acmicpc.net/problem/5466) | 다이아 5 | - | - | - | - | - | - |
-
-### 5. 백준 특강 대비
+</details>
+<details>
+  <summary><h3>5. 백준 특강 대비 [접기/펼치기]</h3></summary>
+  
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | [boj_13706_제곱근](https://www.acmicpc.net/problem/13706) | 브론즈 1 | -    | -    | o   | -    | -    | -    |
@@ -144,9 +149,18 @@ python make_directory_structure.py 이동규 탐욕
 | 5   | [boj_16973_직사각형 탈출](https://www.acmicpc.net/problem/16973) | 골드 5 | -    | -    | o   | -    | -    | -    |
 | 6    | [boj_12907_동물원](https://www.acmicpc.net/problem/12907) | 골드 5 | -  | -    | o   | -    | -    | -    |
 | 7    | [boj_12904_A와 B](https://www.acmicpc.net/problem/12904) | 골드 5 | -    | -    | o   | -    | -    | -    |
-| 8    | [boj_10422_괄호](https://www.acmicpc.net/problem/10422) | 골드 4 | - | -  | - | - | -  | -    |
-| 9    | [boj_1242_소풍](https://www.acmicpc.net/problem/1242) | 골드 2 | -    | -  | - | -    | -  | -    |
-| 10   | [boj_11025_요세푸스 문제 3](https://www.acmicpc.net/problem/11025) | 골드 2 | -    | -    | -  | -    |  -   | -    |
+| 8    | [boj_10422_괄호](https://www.acmicpc.net/problem/10422) | 골드 4 | - | -  | o | - | -  | -    |
+| 9    | [boj_1242_소풍](https://www.acmicpc.net/problem/1242) | 골드 2 | -    | -  | o | -    | -  | -    |
+| 10   | [boj_11025_요세푸스 문제 3](https://www.acmicpc.net/problem/11025) | 골드 2 | -    | -    | o | -    |  -   | -    |
 | 11    | [boj_16959_체스판 여행 1](https://www.acmicpc.net/problem/16959) | 골드 1 | -    | -    | -  | -  | -  | -    |
 | 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | -    | -    | -  | -    |
 | 13   | [boj_12967_pqr](https://www.acmicpc.net/problem/12967) | 플레 5 | -    | -    | -    | -    | -   | -    |
+</details>
+
+#### 문제별 핵심 개념
+- 제곱근 : 이분탐색
+- 골드바흐 파티션 : 소수 만들기(에라토스테네스의 체)
+- 소풍 : 원형큐
+- 요세푸스 문제 3 : [요세푸스 문제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C), [요세푸스 문제(꺼무위키)](https://namu.wiki/w/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)
+
+Brute Force => N과 M 1~8, NM과 K 1
