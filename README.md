@@ -147,10 +147,10 @@ python make_directory_structure.py 이동규 탐욕
 | 3    | [boj_17103_골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 실버 2 | o    | x   | o   | o   | -    | -    |
 | 4    | [boj_12026_BOJ 거리](https://www.acmicpc.net/problem/12026) | 실버 1 | x    | x   | o   | -   | -    | -    |
 | 5   | [boj_16973_직사각형 탈출](https://www.acmicpc.net/problem/16973) | 골드 5 | o   | -    | o   | -    | -    | -    |
-| 6    | [boj_12907_동물원](https://www.acmicpc.net/problem/12907) | 골드 5 | -  | -    | o   | -    | -    | -    |
-| 7    | [boj_12904_A와 B](https://www.acmicpc.net/problem/12904) | 골드 5 | -    | -    | o   | -    | -    | -    |
-| 8    | [boj_10422_괄호](https://www.acmicpc.net/problem/10422) | 골드 4 | - | -  | o | - | -  | -    |
-| 9    | [boj_1242_소풍](https://www.acmicpc.net/problem/1242) | 골드 2 | -    | -  | o | -    | -  | -    |
+| 6    | [boj_12907_동물원](https://www.acmicpc.net/problem/12907) | 골드 5 | o  | -    | o   | -    | -    | -    |
+| 7    | [boj_12904_A와 B](https://www.acmicpc.net/problem/12904) | 골드 5 | o    | -    | o   | -    | -    | -    |
+| 8    | [boj_10422_괄호](https://www.acmicpc.net/problem/10422) | 골드 4 | x | -  | o | - | -  | -    |
+| 9    | [boj_1242_소풍](https://www.acmicpc.net/problem/1242) | 골드 2 | o    | -  | o | -    | -  | -    |
 | 10   | [boj_11025_요세푸스 문제 3](https://www.acmicpc.net/problem/11025) | 골드 2 | -    | -    | o | -    |  -   | -    |
 | 11    | [boj_16959_체스판 여행 1](https://www.acmicpc.net/problem/16959) | 골드 1 | -    | -    | o | -  | -  | -    |
 | 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | -    | -    | -  | -    |
