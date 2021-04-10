@@ -1,34 +1,24 @@
 import sys
 sys.stdin = open("input.txt","r")
-from itertools import combinations
 
-# 에라토스테네스의 체를 활용한다. 모르겠다.
+T = int(input()) # 테스트 케이스를 담고
+nums = [int(input()) for _ in range(T)]
+m = 1000000
+prime = [False, False] + [True] * (m-1)
 
-def prime_list(n):
-    sieve = [True] * n
+for i in range(2,int(m**0.5)+1):
+    if prime[i]:
+        for j in range(i+i,m + 1,i): #i의 배수를 찾기 위한 반복문
+            if prime[j]:
+                prime[j] = False
 
-    # n의 최대 약수는 제곱근 이하이다.
-    m = int(n ** 0.5)
-
-    for i in range(2, m + 1):
-        if sieve[i] == True: # i가 소수이면
-            for j in range(i+i, n, i): # i이후 i의 배수들을 False판정한다.
-                sieve[j] = False
-    #소수 목록을 산출한다.
-    return [i for i in range(1,n) if sieve[i] == True]
-
-# 메모리초과가 난다.
-T = int(input())
-
-for t in range(1,T + 1):
+for num in nums:
     cnt = 0
-    target = int(input())
-    prime_numbers = prime_list(target)
-    c_list = list(combinations(prime_numbers,2))
-
-    for item in c_list:
-        if sum(item) == target:
+    for i in range((num//2) + 1):
+        # prime[i] 와 prime[num-i]를 검사하는 이유는 둘을 더한 값은 반드시 num의 값이고 둘다 소수이면 정답 값을 만족하기 떄문이다.
+        if prime[i] and prime[num - i]:
             cnt += 1
-
     print(cnt)
+
+
 
