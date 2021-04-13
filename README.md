@@ -168,3 +168,5 @@ python make_directory_structure.py 이동규 탐욕
 - 요세푸스 문제 3 : [요세푸스 문제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C), [요세푸스 문제(꺼무위키)](https://namu.wiki/w/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)
 
 Brute Force => N과 M 1~8, NM과 K 1
+
+https://programmers.co.kr/skill_checks
