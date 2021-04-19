@@ -170,3 +170,17 @@ python make_directory_structure.py 이동규 탐욕
 Brute Force => N과 M 1~8, NM과 K 1
 
 https://programmers.co.kr/skill_checks
+
+
+
+### 6. 카카오 기출 문제 풀이
+
+| 번호 | 문제 | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [pro_신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) |     |      |      |      |      | -    |
+| 2    | [pro_메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |      |      | -    |
+| 3    | [pro_순위 검색](https://www.acmicpc.net/problem/17103) |      |      |      |      |      | -    |
+| 4    | [pro_문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |      |      |      |      |      | -    |
+| 5   | [pro_괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) |       |      |      |      |      | -    |
+| 6    | [pro_자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |      |      |      |      |      | -    |
+| 7    | [boj_3687_성냥개비](https://www.acmicpc.net/problem/3687) |      |      |      |      |      | -    |
