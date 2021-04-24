@@ -181,6 +181,6 @@ https://programmers.co.kr/skill_checks
 | 2    | [pro_메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |      |      | o |      |      | -    |
 | 3    | [pro_순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |      |      |      |      |      | -    |
 | 4    | [pro_문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |      |      | o |      |      | -    |
-| 5   | [pro_괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) |       |      |      |      |      | -    |
+| 5   | [pro_괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) |       |      | o |      |      | -    |
 | 6    | [pro_자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |      |      |      |      |      | -    |
 | 7    | [boj_3687_성냥개비](https://www.acmicpc.net/problem/3687) |      |      |      |      |      | -    |
