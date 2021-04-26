@@ -32,6 +32,7 @@ def bfs(x, y, cnt):
 
     return -1
 
+
 # 오 왼 아래 위
 def check(dir, tx, ty):
     if dir == 0:
