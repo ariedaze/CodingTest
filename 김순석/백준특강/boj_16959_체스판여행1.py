@@ -58,7 +58,7 @@ def bfs(x, y):
                 tx, ty = x + rook_dx[i], y + rook_dy[i]
                 if 0 <= tx < N and 0 <= ty < N and not visit[tx][ty][next][rook]:
                     visit[tx][ty][next][rook] = True
-                if tx ==
+                # if tx ==
 
         elif flag == bishop:
             pass
