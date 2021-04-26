@@ -191,9 +191,9 @@ https://programmers.co.kr/skill_checks
 
 | 번호 | 문제 | 난이도 | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |     |      |  |      |      | -    |
-| 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |      |      |  |      |      | -    |
-| 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |      |      |  |      |      | -    |
+| 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |     |      | o |      |      | -    |
+| 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |      |      | o |      |      | -    |
+| 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |      |      | o |      |      | -    |
 | 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 |      |      |  |      |      | -    |
 | 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 |       |      |  |      |      | -    |
 | 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |      |      |      |      |      | -    |
