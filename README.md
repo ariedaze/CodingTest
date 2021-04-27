@@ -196,7 +196,7 @@ https://programmers.co.kr/skill_checks
 | 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |      |      | o | o    |      | -    |
 | 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 |      |      |  | o    |      | -    |
 | 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 |       |      |  |      |      | -    |
-| 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |      |      |      |      |      | -    |
+| 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |      |      |      | o     |      | -    |
 | 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |      |      |  |      |      | -    |
 | 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |      |      |  |      |      | -    |
 | 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      |  |      |      | -    |
