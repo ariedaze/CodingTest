@@ -140,6 +140,7 @@ python make_directory_structure.py 이동규 탐욕
 | 20   | [boj_5466_상인](https://www.acmicpc.net/problem/5466)        | 다이아 5 | -    | -    | -    | -    | -    | -    |
 
 </details>
+
 <details>
   <summary><h3>5. 백준 특강 대비 [접기/펼치기]</h3></summary>
 
@@ -167,13 +168,10 @@ python make_directory_structure.py 이동규 탐욕
 - 소풍 : 원형큐
 - 요세푸스 문제 3 : [요세푸스 문제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C), [요세푸스 문제(꺼무위키)](https://namu.wiki/w/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)
 
-Brute Force => N과 M 1~8, NM과 K 1
+</details>
 
-https://programmers.co.kr/skill_checks
-
-
-
-### 6. 카카오 기출 문제 풀이
+<details>
+  <summary><h3>6. 카카오 기출 문제 풀이 [접기/펼치기]</h3></summary>
 
 | 번호 | 문제 | 순석 | 성훈 | 준현 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- |
@@ -184,7 +182,7 @@ https://programmers.co.kr/skill_checks
 | 5   | [pro_괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) |       |      | o |   o  |      | -    |
 | 6    | [pro_자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |      |      |      |      |      | -    |
 | 7    | [boj_3687_성냥개비](https://www.acmicpc.net/problem/3687) |  x   |      | o |      |      | -    |
-
+</details>
 
 
 ### 7. 탐욕 알고리즘(Greedy Algorithm) 2번째
@@ -197,7 +195,13 @@ https://programmers.co.kr/skill_checks
 | 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 |      |      | o | o |     | o | -    |
 | 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 |      |       | o |  |      | o | -    |
 | 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |      |      | o | o |      | o | -    |
-| 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |      |      |      |  |      | o | -    |
+| 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |      |      | o |  |      | o | -    |
 | 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |      |      |      |  |      |      | -    |
 | 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      |      |  |      |      | -    |
 | 10    | [boj_1114_통나무 자르기](https://www.acmicpc.net/problem/1114) | 골드 1 |      |      |      |  |      |      | -    |
+
+
+
+Brute Force => N과 M 1~8, NM과 K 1
+
+https://programmers.co.kr/skill_checks
