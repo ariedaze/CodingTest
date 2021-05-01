@@ -9,11 +9,14 @@ ex, ey, s, w = map(int,input().split()) # S : 가로, 세로 이동 W: 대각선
 #     ans += abs(ex-ey) * s
 # else:
 #     ans += (ex + ey) * s
-# 2가지 경우로 나눠야한다. 평행이동과 대각선 + 평행이동
+# 해당 점에 갈 수 있는 전체 방법을 계산하고 그중에서의 최소값을 뽑는 식으로한다.
+# 평행이동하는 경우
 move1 = (ex + ey) * s
 
-if (ex +ey) % 2:
+# 대각선 + 평행이동의 경우
+if (ex + ey) % 2:
     move2 = (max(ex,ey) -1)*w +s
+# 짝수일때 대각선으로만으로 움직일 수 있음.
 else:
     move2 = max(ex,ey) * w
 
