@@ -197,7 +197,7 @@ python make_directory_structure.py 이동규 탐욕
 | 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |   o  | o | o | o |      | o | -    |
 | 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |  o   | o | o |  |      | o | -    |
 | 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      | o |  |      |      | -    |
-| 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      |      |  |      |      | -    |
+| 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      | o |  |      |      | -    |
 | 10    | [boj_1114_통나무 자르기](https://www.acmicpc.net/problem/1114) | 골드 1 |      |      |      |  |      |      | -    |
 
 
