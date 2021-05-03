@@ -190,27 +190,15 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제 | 난이도 | 순석 | 성훈 | 준현 | 아현 | 동규 | 재유 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-<<<<<<< HEAD
-| 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |  o   |     | o | o | o | o | -    |
-| 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |  o   |      | o | o | o |      | -    |
-| 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |  o   |      | o | o | o | o | -    |
-| 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 | o    |      | o | o | o | o | -    |
-| 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 | o    |       | o |  | o | o | -    |
-| 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |   o  |      | o | o | o | o | -    |
-| 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |  o   |      | o |  | o | o | -    |
-| 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      |      |  | x |      | -    |
-| 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      |      |  |      |      | -    |
-=======
-| 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |  o  | o | o | o |     | o | -    |
-| 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |  o   | x | o | o |     |      | -    |
-| 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |  o   | o | o | o |     | o | -    |
-| 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 | o    | o | o | o |     | o | -    |
-| 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 | o    | x | o |o|      | o | -    |
-| 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |   o  | o | o | o |      | o | -    |
-| 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |  o   | o | o | o|  | o | -    |
-| 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      | o |  |      |      | -    |
+| 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |  o  | o | o | o | o | o | -    |
+| 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |  o   | x | o | o | o |      | -    |
+| 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |  o   | o | o | o | o | o | -    |
+| 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 | o    | o | o | o | o | o | -    |
+| 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 | o    | x | o |o| o | o | -    |
+| 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |   o  | o | o | o | o | o | -    |
+| 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |  o   | o | o | o | o | o | -    |
+| 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      | o |  | x |      | -    |
 | 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      | o |  |      |      | -    |
->>>>>>> origin/main
 | 10    | [boj_1114_통나무 자르기](https://www.acmicpc.net/problem/1114) | 골드 1 |      |      |      |  |      |      | -    |
 
 <details>
