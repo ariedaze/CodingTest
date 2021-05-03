@@ -91,6 +91,7 @@ python make_directory_structure.py 이동규 탐욕
 | 14   | [boj_9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3   | -    | -    | -    | -    | o    | -   | -    |
 | 15   | [boj_16930_달리기](https://www.acmicpc.net/problem/16930)  | 플레 2   | -    | -    | -    | -    | x  | -  | -    |
 </details>
+
 <details>
   <summary><h3>3. 모의 SW 역량테스트 A형 대비 & 그리디, 완전 탐색 [접기/펼치기]</h3></summary>
 
@@ -189,6 +190,7 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제 | 난이도 | 순석 | 성훈 | 준현 | 아현 | 동규 | 재유 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+<<<<<<< HEAD
 | 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |  o   |     | o | o | o | o | -    |
 | 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |  o   |      | o | o | o |      | -    |
 | 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |  o   |      | o | o | o | o | -    |
@@ -198,9 +200,35 @@ python make_directory_structure.py 이동규 탐욕
 | 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |  o   |      | o |  | o | o | -    |
 | 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      |      |  | x |      | -    |
 | 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      |      |  |      |      | -    |
+=======
+| 1    | [boj_5585_거스름돈](https://www.acmicpc.net/problem/5585) | 브론즈 2 |  o  | o | o | o |     | o | -    |
+| 2    | [boj_1459_걷기](https://www.acmicpc.net/problem/1459) | 브론즈 1 |  o   | x | o | o |     |      | -    |
+| 3    | [boj_1543_문서 검색](https://www.acmicpc.net/problem/1543) | 실버 4 |  o   | o | o | o |     | o | -    |
+| 4    | [boj_2012_등수 매기기](https://www.acmicpc.net/problem/2012) | 실버 3 | o    | o | o | o |     | o | -    |
+| 5   | [boj_1911_흙길 보수하기](https://www.acmicpc.net/problem/1911) | 실버 2 | o    | x | o |o|      | o | -    |
+| 6    | [boj_2036_수열의 점수](https://www.acmicpc.net/problem/2036) | 실버 1 |   o  | o | o | o |      | o | -    |
+| 7    | [boj_2141_우체국](https://www.acmicpc.net/problem/2141) | 골드 4 |  o   | o | o | o|  | o | -    |
+| 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      | o |  |      |      | -    |
+| 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      | o |  |      |      | -    |
+>>>>>>> origin/main
 | 10    | [boj_1114_통나무 자르기](https://www.acmicpc.net/problem/1114) | 골드 1 |      |      |      |  |      |      | -    |
 
+<details>
+  <summary><h3>2. 완전 탐색 (DFS & BFS)  2번째 [접기/펼치기]</h3></summary>
 
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   |    |   |     |    |    |   | -    |
+| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |    |    |     |    |    |   | -    |
+| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |    |   |     |   |    |   | -    |
+| 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  |    |   |     |    |    |   | -    |
+| 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |    |    |    |    |    |    | -    |
+| 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 |    |   |    |    |     |    | -    |
+| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 |    |    |    |   |    |    | -    |
+| 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  |    |   |    |     |    |    | -    |
+| 9    | [boj_3055_탈출](https://www.acmicpc.net/problem/3055) | 골드 5 |    |    |    |    |     |    | -    |
+| 10   | [boj_9019_DSLR](https://www.acmicpc.net/problem/9019) | 골드 5   |     |   |    |     |     |    | -    |
+</details>
 
 Brute Force => N과 M 1~8, NM과 K 1
 
