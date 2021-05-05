@@ -185,8 +185,8 @@ python make_directory_structure.py 이동규 탐욕
 | 7    | [boj_3687_성냥개비](https://www.acmicpc.net/problem/3687) |  x   |      | o |      |      | -    |
 </details>
 
-
-### 7. 탐욕 알고리즘(Greedy Algorithm) 2번째
+<details>
+  <summary><h3>7. 탐욕 알고리즘(Greedy Algorithm) 2번째 [접기/펼치기]</h3></summary>
 
 | 번호 | 문제 | 난이도 | 순석 | 성훈 | 준현 | 아현 | 동규 | 재유 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -200,15 +200,15 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [boj_10800_컬러볼](https://www.acmicpc.net/problem/10800) | 골드 3 |  x   |      | o |  |      |      | -    |
 | 9    | [boj_1202_보석 도둑](https://www.acmicpc.net/problem/1202) | 골드 2 |      |      | o |  |      |      | -    |
 | 10    | [boj_1114_통나무 자르기](https://www.acmicpc.net/problem/1114) | 골드 1 |      |      |      |  |      |      | -    |
+</details>
 
-<details>
-  <summary><h3>2. 완전 탐색 (DFS & BFS)  2번째 [접기/펼치기]</h3></summary>
+### 8. 완전 탐색 (DFS & BFS)  2번째 [접기/펼치기]
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   |    |   |     |    |    |   | -    |
-| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |    |    |     |    |    |   | -    |
-| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |    |   |     |   |    |   | -    |
+| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   |    |   | o |    |    |   | -    |
+| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |    |    | o |    |    |   | -    |
+| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |    |   | o |   |    |   | -    |
 | 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  |    |   |     |    |    |   | -    |
 | 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |    |    |    |    |    |    | -    |
 | 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 |    |   |    |    |     |    | -    |
@@ -216,7 +216,6 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  |    |   |    |     |    |    | -    |
 | 9    | [boj_3055_탈출](https://www.acmicpc.net/problem/3055) | 골드 5 |    |    |    |    |     |    | -    |
 | 10   | [boj_9019_DSLR](https://www.acmicpc.net/problem/9019) | 골드 5   |     |   |    |     |     |    | -    |
-</details>
 
 Brute Force => N과 M 1~8, NM과 K 1
 
