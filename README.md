@@ -212,7 +212,7 @@ python make_directory_structure.py 이동규 탐욕
 | 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  |    |   | o | o |    |   | -    |
 | 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |    |    | o |  |    |    | -    |
 | 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 |    |   | o | o |     |    | -    |
-| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 |    |    |    | o |    |    | -    |
+| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 |    |    | o | o |    |    | -    |
 | 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  |    |   |    | o |    |    | -    |
 | 9    | [boj_3055_탈출](https://www.acmicpc.net/problem/3055) | 골드 5 |    |    |    | o |     |    | -    |
 | 10   | [boj_9019_DSLR](https://www.acmicpc.net/problem/9019) | 골드 5   |     |   |    | o |     |    | -    |
