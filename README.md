@@ -206,9 +206,9 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   |    |   | o | o |    |   | -    |
-| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |    |    | o | o |    |   | -    |
-| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |    |   | o | o |    |   | -    |
+| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   |    | o | o | o |    |   | -    |
+| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |    | o | o | o |    |   | -    |
+| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |    | o | o | o |    |   | -    |
 | 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  |    |   | o | o |    |   | -    |
 | 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |    |    | o |  |    |    | -    |
 | 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 |    |   | o | o |     |    | -    |
