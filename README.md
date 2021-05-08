@@ -210,10 +210,10 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |    | o | o | o |    |   | -    |
 | 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |    | o | o | o |    |   | -    |
 | 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  |    | o | o | o |    |   | -    |
-| 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |    |    | o |  |    |    | -    |
+| 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |    | o | o |  |    |    | -    |
 | 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 |    | o | o | o |     |    | -    |
-| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 |    |    | o | o |    |    | -    |
-| 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  |    |   | o | o |    |    | -    |
+| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 |    |  | o | o |    |    | -    |
+| 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  |    | o | o | o |    |    | -    |
 | 9    | [boj_3055_탈출](https://www.acmicpc.net/problem/3055) | 골드 5 |    |    | o | o |     |    | -    |
 | 10   | [boj_9019_DSLR](https://www.acmicpc.net/problem/9019) | 골드 5   |     |   | o | o |     |    | -    |
 
