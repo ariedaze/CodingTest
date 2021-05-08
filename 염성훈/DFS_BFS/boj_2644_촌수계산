@@ -1,0 +1,30 @@
+import sys
+from collections import deque
+sys.stdin = open("input.txt","r")
+
+def bfs(start):
+    q = deque()
+    q.append(start)
+    visited[start] = 1
+    while q:
+        s = q.popleft()
+        for w in G[s]:
+            if not visited[w]:
+                visited[w] = visited[s] + 1
+                q.append(w)
+
+n = int(input()) # 총 사람의 수
+a, b = map(int,input().split()) # 촌수를 계산하는 두 번호
+e = int(input()) #관계의 갯수
+
+G = [[] for _ in range(n + 1)]
+visited = [0] * (n + 1)
+
+for _ in range(e):
+    parent, child = map(int,input().split())
+    G[parent].append(child)
+    G[child].append(parent)
+
+bfs(a)
+
+print(visited[b] - 1)
