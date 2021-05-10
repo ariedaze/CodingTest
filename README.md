@@ -206,16 +206,16 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   | o  | o | o | o |    | o | -    |
-| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |  o | o | o | o |    | o | -    |
-| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |  o | o | o | o |    | o | -    |
-| 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  | o  | o | o | o |    | o | -    |
-| 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |  o | o | o |  |    | o | -    |
-| 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 | o  | o | o | o |     | o | -    |
-| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 | o  | o | o | o |    | o | -    |
-| 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  | o  | o | o | o |    | o | -    |
-| 9    | [boj_3055_탈출](https://www.acmicpc.net/problem/3055) | 골드 5 | o  | o | o | o |     | o | -    |
-| 10   | [boj_9019_DSLR](https://www.acmicpc.net/problem/9019) | 골드 5   |  o  | x | o | o |     | o | -    |
+| 1    | [boj_11724_연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2   | o  | o | o | o |  o |   | -    |
+| 2    | [boj_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1   |  o | o | o | o | o  |   | -    |
+| 3    | [boj_6603_로또](https://www.acmicpc.net/problem/6603) | 실버 2  |  o | o | o | o |  o |   | -    |
+| 4    | [boj_7562_나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2  | o  | o | o | o | o   |   | -    |
+| 5   | [boj_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 골드 4 |  o | o | o | x | x   |    | -    |
+| 6    | [boj_2468_안전 영역](https://www.acmicpc.net/problem/2468) | 실버 1 | o  | o | o | o | o   |    | -    |
+| 7    | [boj_7569_토마토](https://www.acmicpc.net/problem/7569) | 실버 1 | o  | o | o | o |  x |    | -    |
+| 8    | [boj_2644_촌수계산](https://www.acmicpc.net/problem/2644) | 실버 2  | o  | o | o | o |  o  |    | -    |
+| 9    | [boj_3055_탈출](https://www.acmicpc.net/problem/3055) | 골드 5 | o  | o | o | o |  o   |    | -    |
+| 10   | [boj_9019_DSLR](https://www.acmicpc.net/problem/9019) | 골드 5   |  o  | x | o | o |   o  |    | -    |
 
 
 Brute Force => N과 M 1~8, NM과 K 1
