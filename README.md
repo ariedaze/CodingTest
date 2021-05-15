@@ -227,8 +227,8 @@ python make_directory_structure.py 이동규 탐욕
 | 1    | [boj_14720_우유 축제](https://www.acmicpc.net/problem/14620) | 브론즈 3 |   |  | 68 |  |   |  | -    |
 | 2    | [boj_10835_카드게임](https://www.acmicpc.net/problem/10835) | 실버 1   |   |  | 2508 |  |   |  | -    |
 | 3    | [boj_2156_포도주 시식](https://www.acmicpc.net/problem/2156) | 실버 1  |   |  | 596 |  |   |  | -    |
-| 4    | [boj_14722_우유 도시](https://www.acmicpc.net/problem/14722) | 실버 5  |   |  |  |  |    |  | -    |
-| 5   | [boj_13302_리조트](https://www.acmicpc.net/problem/13302) | 골드 5 |   |  |  |  |    |  | -    |
+| 4    | [boj_14722_우유 도시](https://www.acmicpc.net/problem/14722) | 실버 5  |   |  | 2180 |  |    |  | -    |
+| 5   | [boj_13302_리조트](https://www.acmicpc.net/problem/13302) | 골드 5 |   |  | 72 |  |    |  | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
