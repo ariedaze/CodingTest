@@ -224,11 +224,11 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_14720_우유 축제](https://www.acmicpc.net/problem/14620) | 브론즈 3 |64 | 68 | 68 | 68 |  72 |  | -    |
-| 2    | [boj_10835_카드게임](https://www.acmicpc.net/problem/10835) | 실버 1   |3044 | 3328 | 2508 | 2932 | 3124  |  | -    |
-| 3    | [boj_2156_포도주 시식](https://www.acmicpc.net/problem/2156) | 실버 1  |72 | 540 | 596 | 536 |  524 |  | -    |
-| 4    | [boj_14722_우유 도시](https://www.acmicpc.net/problem/14722) | 골드 5 |  2980 | x | 2180 | 984 |  1916  |  | -    |
-| 5   | [boj_13302_리조트](https://www.acmicpc.net/problem/13302) | 골드 5 | 68  | x | 72 | x | 108  |  | -    |
+| 1    | [boj_14720_우유 축제](https://www.acmicpc.net/problem/14620) | 브론즈 3 |64 | 68 | 68 | 68 |  72 | 64 | -    |
+| 2    | [boj_10835_카드게임](https://www.acmicpc.net/problem/10835) | 실버 1   |3044 | 3328 | 2508 | 2932 | 3124  | 3324 | -    |
+| 3    | [boj_2156_포도주 시식](https://www.acmicpc.net/problem/2156) | 실버 1  |72 | 540 | 596 | 536 |  524 | 564 | -    |
+| 4    | [boj_14722_우유 도시](https://www.acmicpc.net/problem/14722) | 골드 5 |  2980 | x | 2180 | 984 |  1916  | x | -    |
+| 5   | [boj_13302_리조트](https://www.acmicpc.net/problem/13302) | 골드 5 | 68  | x | 72 | x | 108  | x | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
