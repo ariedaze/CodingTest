@@ -237,12 +237,12 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | |  | o    | o |      |      | -    |
-| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      |      | o    | o |      |      | -    |
-| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      |      | o    | o |      |      | -    |
-| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      |      | o    | o |      |      | -    |
-| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      |      | o    | x |      |      | -    |
-| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  |  | o | x |  |  |  |
+| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | | o | o    | o |      |      | -    |
+| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      | x | o    | o |      |      | -    |
+| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      | o | o    | o |      |      | -    |
+| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      | o | o    | o |      |      | -    |
+| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      | o | o    | x |      |      | -    |
+| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  | o | o | x |  |  |  |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
