@@ -220,7 +220,8 @@ python make_directory_structure.py 이동규 탐욕
 
 </details>
 
-### 9. 다이나믹 프로그래밍 (DP) [접기/펼치기] 
+<details>
+  <summary><h3>9. 다이나믹 프로그래밍 (DP) 2번째 [접기/펼치기] </h3></summary>
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -229,6 +230,19 @@ python make_directory_structure.py 이동규 탐욕
 | 3    | [boj_2156_포도주 시식](https://www.acmicpc.net/problem/2156) | 실버 1  |72 | 540 | 596 | 536 |  524 | 564 | -    |
 | 4    | [boj_14722_우유 도시](https://www.acmicpc.net/problem/14722) | 골드 5 |  2980 | x | 2180 | 984 |  1916  | x | -    |
 | 5   | [boj_13302_리조트](https://www.acmicpc.net/problem/13302) | 골드 5 | 68  | x | 72 | x | 108  | x | -    |
+
+</details>
+
+### 10. 그리디 알고리즘 3번째 [접기/펼치기]
+
+| 번호 | 문제                                                        | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | | o | o    | o |      |      | -    |
+| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      | x | o    | o |      |      | -    |
+| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      | o | o    | o |      |      | -    |
+| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      | o | o    | o |      |      | -    |
+| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      | o | o    | x |      |      | -    |
+| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  | o | o | x |  |  |  |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
