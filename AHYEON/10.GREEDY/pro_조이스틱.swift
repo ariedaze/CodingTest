@@ -1,4 +1,5 @@
 import Foundation
+
 func solution(_ name:String) -> Int {
     var ans = 0
     let name = name.map({$0})
