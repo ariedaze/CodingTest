@@ -241,8 +241,8 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      | x | o    | o |      |      | -    |
 | 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      | o | o    | o |      |      | -    |
 | 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      | o | o    | o |      |      | -    |
-| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      | o | o    | x |      |      | -    |
-| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  | o | o | x |  |  |  |
+| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      | o | o    | o |      |      | -    |
+| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  | o | o | o |  |  |  |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
