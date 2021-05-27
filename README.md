@@ -244,6 +244,19 @@ python make_directory_structure.py 이동규 탐욕
 | 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      | o | o    | o |      |      | -    |
 | 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  | o | o | o |  |  |  |
 
+### 11. 완전 탐색 (DFS & BFS) 3번째 [접기/펼치기]
+
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [boj_2573_빙산](https://www.acmicpc.net/problem/2573) | 골드 4 |      |      |      |      |      |      | -    |
+| 2    | [boj_14503_로봇 청소기](https://www.acmicpc.net/problem/14503) | 골드 5 |      |      |      |      |      |      | -    |
+| 3    | [boj_9205_맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 실버 1 |      |      |      |      |      |  | -    |
+| 4    | [boj_10451_순열 사이클](https://www.acmicpc.net/problem/10451) | 실버 1 |      |      |      |      |      |      | -    |
+| 5   | [boj_11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) | 골드 5 |      |      |      |      |      |      | -    |
+| 6    | [boj_2234_성곽](https://www.acmicpc.net/problem/2234) | 골드 4 |      |      |      |      |      |      | -    |
+| 7    | [boj_1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | 실버 1 |      |      |      |      |      |      | -    |
+| 8    | [boj_2583_영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 |      |      |      |      |      |      | -    |
+
 Brute Force => N과 M 1~8, NM과 K 1
 
 https://programmers.co.kr/skill_checks
