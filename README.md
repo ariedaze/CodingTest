@@ -237,12 +237,12 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |o | o | o    | o |      | o | -    |
-| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |  x    | x | o    | o |      | x | -    |
-| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  o    | o | o    | o |      | o | -    |
-| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |  o    | o | o    | o |      | o | -    |
-| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | o     | o | o    | o |      | o | -    |
-| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | o | o | o | o |  | o |  |
+| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |o | o | o    | o |  o   | o | -    |
+| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |  x    | x | o    | o |  o   | x | -    |
+| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  o    | o | o    | o |  o   | o | -    |
+| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |  o    | o | o    | o |  o   | o | -    |
+| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | o     | o | o    | o |  o   | o | -    |
+| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | o | o | o | o |o | o |  |
 
 ### 11. 완전 탐색 (DFS & BFS) 3번째 [접기/펼치기]
 
