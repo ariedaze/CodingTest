@@ -248,18 +248,18 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [boj_2573_빙산](https://www.acmicpc.net/problem/2573) | 골드 4 |  1036(pypy)    |      | 2903 | 1184(pypy) |      |      | -    |
-| 2    | [boj_14503_로봇 청소기](https://www.acmicpc.net/problem/14503) | 골드 5 |   72   |      | 68 | 96 |      |      | -    |
-| 3    | [boj_9205_맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 실버 1 | 116     |      | 112 | x |      |  | -    |
-| 4    | [boj_10451_순열 사이클](https://www.acmicpc.net/problem/10451) | 실버 1 |   368   |  | 672  | 2252 |      |      | -    |
-| 5   | [boj_11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) | 골드 5 |  100    |      | 88 | 68 |      |      | -    |
-| 6    | [boj_2234_성곽](https://www.acmicpc.net/problem/2234) | 골드 4 |  104    |      | 100 | 88 |      |      | -    |
-| 7    | [boj_1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | 실버 1 |   96   |      | 88 | 112 |      |      | -    |
-| 8    | [boj_2583_영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 |   80   |      | 116 | 96 |      |      | -    |
-| 9   | [boj_16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 실버 1 |      |      | 100 | 92 |      |      | -    |
-| 10  | [boj_16948_데스 나이트](https://www.acmicpc.net/problem/16948) | 실버 1 |      |      | 120 | 140 |      |      | -    |
-| 11  | [boj_14502_연구소](https://www.acmicpc.net/problem/14502) | 골드 5 |      |      | 4304 | x |      |      | -    |
-| 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |      |      | 948(pypy) | x |      |      | -    |
+| 1    | [boj_2573_빙산](https://www.acmicpc.net/problem/2573) | 골드 4 |  1036(pypy)    | x | 2903 | 1184(pypy) |      |      | -    |
+| 2    | [boj_14503_로봇 청소기](https://www.acmicpc.net/problem/14503) | 골드 5 |   72   | 92 | 68 | 96 |      |      | -    |
+| 3    | [boj_9205_맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 실버 1 | 116     | x | 112 | x |      |  | -    |
+| 4    | [boj_10451_순열 사이클](https://www.acmicpc.net/problem/10451) | 실버 1 |   368   | 456 | 672  | 2252 |      |      | -    |
+| 5   | [boj_11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) | 골드 5 |  100    | x | 88 | 68 |      |      | -    |
+| 6    | [boj_2234_성곽](https://www.acmicpc.net/problem/2234) | 골드 4 |  104    | x | 100 | 88 |      |      | -    |
+| 7    | [boj_1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | 실버 1 |   96   | 100 | 88 | 112 |      |      | -    |
+| 8    | [boj_2583_영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 |   80   | 104 | 116 | 96 |      |      | -    |
+| 9   | [boj_16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 실버 1 |      | 59 | 100 | 92 |      |      | -    |
+| 10  | [boj_16948_데스 나이트](https://www.acmicpc.net/problem/16948) | 실버 1 |      | 116 | 120 | 140 |      |      | -    |
+| 11  | [boj_14502_연구소](https://www.acmicpc.net/problem/14502) | 골드 5 |      | 5024 | 4304 | x |      |      | -    |
+| 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |      | x | 948(pypy) | x |      |      | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
