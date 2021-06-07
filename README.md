@@ -233,7 +233,8 @@ python make_directory_structure.py 이동규 탐욕
 
 </details>
 
-### 10. 그리디 알고리즘 3번째 [접기/펼치기]
+<details>
+  <summary><h3>10. 그리디 알고리즘 3번째 [접기/펼치기] </h3></summary>
 
 | 번호 | 문제                                                        | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -243,8 +244,10 @@ python make_directory_structure.py 이동규 탐욕
 | 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |  o    | o | o    | o |  o   | o | -    |
 | 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | o     | o | o    | o |  o   | o | -    |
 | 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | o | o | o | o |o | o |  |
+</details>
 
-### 11. 완전 탐색 (DFS & BFS) 3번째 [접기/펼치기]
+<details>
+  <summary><h3>11. 완전 탐색 (DFS & BFS) 3번째 [접기/펼치기]</h3></summary>
 
 | 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -260,6 +263,27 @@ python make_directory_structure.py 이동규 탐욕
 | 10  | [boj_16948_데스 나이트](https://www.acmicpc.net/problem/16948) | 실버 1 |      |      | 120 |      |      |      | -    |
 | 11  | [boj_14502_연구소](https://www.acmicpc.net/problem/14502) | 골드 5 |      |      | 4304 |      |      |      | -    |
 | 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |      |      | 948(pypy) |      |      |      | -    |
+</details>
+
+
+### 12. 프로그래머스 실전 연습 lv1, lv2 [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Lv. 1  |      |      |      |      |      |      | -    |
+| 2    | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv. 1  |      |      |      |      |      |      | -    |
+| 3    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv. 1  |      |      |      |      |      |      | -    |
+| 4    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Lv. 1  |      |      |      |      |      |      | -    |
+| 5    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | Lv. 1  |      |      |      |      |      |      | -    |
+| 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |      |      |      |      |      |      | -    |
+| 7    | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Lv. 2  |      |      |      |      |      |      | -    |
+| 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      |      |      |      |      |      | -    |
+| 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      |      |      |      |      |      | -    |
+| 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      |      |      |      |      | -    |
+
+
 
 Brute Force => N과 M 1~8, NM과 K 1
 
