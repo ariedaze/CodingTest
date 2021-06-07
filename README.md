@@ -256,7 +256,7 @@ python make_directory_structure.py 이동규 탐욕
 | 6    | [boj_2234_성곽](https://www.acmicpc.net/problem/2234) | 골드 4 |  104    | x | 100 | 88 |      |      | -    |
 | 7    | [boj_1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | 실버 1 |   96   | 100 | 88 | 112 |      |      | -    |
 | 8    | [boj_2583_영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 |   80   | 104 | 116 | 96 |      |      | -    |
-| 9   | [boj_16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 실버 1 |      | 59 | 100 | 92 |      |      | -    |
+| 9   | [boj_16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 실버 1 | 104     | 59 | 100 | 92 |      |      | -    |
 | 10  | [boj_16948_데스 나이트](https://www.acmicpc.net/problem/16948) | 실버 1 |      | 116 | 120 | 140 |      |      | -    |
 | 11  | [boj_14502_연구소](https://www.acmicpc.net/problem/14502) | 골드 5 |      | 5024 | 4304 | x |      |      | -    |
 | 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |      | x | 948(pypy) | x |      |      | -    |
