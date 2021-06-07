@@ -261,7 +261,7 @@ python make_directory_structure.py 이동규 탐욕
 | 9   | [boj_16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 실버 1 | 104     | 59 | 100 | 92 |      |      | -    |
 | 10  | [boj_16948_데스 나이트](https://www.acmicpc.net/problem/16948) | 실버 1 |120   | 116 | 120 | 140 |      |      | -    |
 | 11  | [boj_14502_연구소](https://www.acmicpc.net/problem/14502) | 골드 5 |   x  | 5024 | 4304 | x |      |      | -    |
-| 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |  x   | x | 948(pypy) | x |      |      | -    |
+| 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |  640   | x | 948(pypy) | x |      |      | -    |
 </details>
 
 
