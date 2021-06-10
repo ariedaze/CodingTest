@@ -271,16 +271,16 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Lv. 1  |      |      | o    |      |      |      | -    |
-| 2    | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv. 1  |      |      | o    |      |      |      | -    |
-| 3    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv. 1  |      |      | o    |      |      |      | -    |
-| 4    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Lv. 1  |      |      | o    |      |      |      | -    |
-| 5    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | Lv. 1  |      |      | o    |      |      |      | -    |
-| 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |      |      |      |      |      |      | -    |
-| 7    | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Lv. 2  |      |      | o    |      |      |      | -    |
-| 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      |      | o    |      |      |      | -    |
-| 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      |      |      |      |      |      | -    |
-| 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      |      |      |      |      | -    |
+| 1    | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Lv. 1  |      | o    | o    | o    |      |      | -    |
+| 2    | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv. 1  |      | o    | o    | o    |      |      | -    |
+| 3    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv. 1  |      | o    | o    |      |      |      | -    |
+| 4    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Lv. 1  |      | o    | o    |      |      |      | -    |
+| 5    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | Lv. 1  |      | o    | o    | o    |      |      | -    |
+| 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |      | o    |      |      |      |      | -    |
+| 7    | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Lv. 2  |      |      | o    | o    |      |      | -    |
+| 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      | o    | o    | o    |      |      | -    |
+| 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      |      |      | o    |      |      | -    |
+| 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      |      | o    |      |      | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
