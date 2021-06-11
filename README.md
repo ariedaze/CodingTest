@@ -279,8 +279,8 @@ python make_directory_structure.py 이동규 탐욕
 | 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |      | o    |      |      |      |      | -    |
 | 7    | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Lv. 2  |      |      | o    | o    |      |      | -    |
 | 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      | o    | o    | o    |      |      | -    |
-| 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      |      |      | o    |      |      | -    |
-| 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      |      | o    |      |      | -    |
+| 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      |      | o    | o    |      |      | -    |
+| 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      | o    | o    |      |      | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
