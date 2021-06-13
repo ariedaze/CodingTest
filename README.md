@@ -233,16 +233,54 @@ python make_directory_structure.py 이동규 탐욕
 
 </details>
 
-### 10. 그리디 알고리즘 3번째 [접기/펼치기]
+<details>
+  <summary><h3>10. 그리디 알고리즘 3번째 [접기/펼치기] </h3></summary>
 
 | 번호 | 문제                                                        | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ----------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | | o | o    | o |      |      | -    |
-| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      | x | o    | o |      |      | -    |
-| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |      | o | o    | o |      |      | -    |
-| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |      | o | o    | o |      |      | -    |
-| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |      | o | o    | x |      |      | -    |
-| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |  | o | o | x |  |  |  |
+| 1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |o | o | o    | o |  o   | o | -    |
+| 2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |  x    | x | o    | o |  o   | x | -    |
+| 3    | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  o    | o | o    | o |  o   | o | -    |
+| 4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |  o    | o | o    | o |  o   | o | -    |
+| 5   | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | o     | o | o    | o |  o   | o | -    |
+| 6 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | o | o | o | o |o | o |  |
+</details>
+<details>
+  <summary><h3>11. 완전 탐색 (DFS & BFS) 3번째 [접기/펼치기]</h3></summary>
+
+| 번호 | 문제                                                        | 난이도   | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ----------------------------------------------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [boj_2573_빙산](https://www.acmicpc.net/problem/2573) | 골드 4 |  1036(pypy)    | x | 2903 | 1184(pypy) |      | 724(pypy) | -    |
+| 2    | [boj_14503_로봇 청소기](https://www.acmicpc.net/problem/14503) | 골드 5 |   72   | 92 | 68 | 96 |      | 72 | -    |
+| 3    | [boj_9205_맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 실버 1 | 116     | x | 112 | x |      | 196 | -    |
+| 4    | [boj_10451_순열 사이클](https://www.acmicpc.net/problem/10451) | 실버 1 |   368   | 456 | 672  | 2252 |      | 808 | -    |
+| 5   | [boj_11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) | 골드 5 |  100    | x | 88 | 68 |      | 92 | -    |
+| 6    | [boj_2234_성곽](https://www.acmicpc.net/problem/2234) | 골드 4 |  104    | x | 100 | 88 |      |      | -    |
+| 7    | [boj_1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | 실버 1 |   96   | 100 | 88 | 112 |      |      | -    |
+| 8    | [boj_2583_영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 |   80   | 104 | 116 | 96 |      |      | -    |
+| 9   | [boj_16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 실버 1 | 104     | 59 | 100 | 92 |      |      | -    |
+| 10  | [boj_16948_데스 나이트](https://www.acmicpc.net/problem/16948) | 실버 1 |120   | 116 | 120 | 140 |      |      | -    |
+| 11  | [boj_14502_연구소](https://www.acmicpc.net/problem/14502) | 골드 5 |   x  | 5024 | 4304 | x |      |      | -    |
+| 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |  640   | x | 948(pypy) | x |      |      | -    |
+</details>
+
+
+### 12. 프로그래머스 실전 연습 lv1, lv2 [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Lv. 1  |  o    | o    | o    | o    |      |      | -    |
+| 2    | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv. 1  |    o  | o    | o    | o    |      |      | -    |
+| 3    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv. 1  | o     | o    | o    |      |      |      | -    |
+| 4    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Lv. 1  |   o   | o    | o    |      |      |      | -    |
+| 5    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | Lv. 1  |   o   | o    | o    | o    |      |      | -    |
+| 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |  o    | o    | o    |      |      |      | -    |
+| 7    | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Lv. 2  |      | o | o    | o    |      |      | -    |
+| 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      | o    | o    | o    |      |      | -    |
+| 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      | o | o    | o    |      |      | -    |
+| 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      | o    | o    |      |      | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
