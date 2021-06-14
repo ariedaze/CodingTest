@@ -273,10 +273,10 @@ python make_directory_structure.py 이동규 탐욕
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Lv. 1  |  o    | o    | o    | o    |    o  |      | -    |
 | 2    | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Lv. 1  |    o  | o    | o    | o    |   o   |      | -    |
-| 3    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv. 1  | o     | o    | o    |      |   o   |      | -    |
-| 4    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Lv. 1  |   o   | o    | o    |      |  o    |      | -    |
+| 3    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Lv. 1  | o     | o    | o    | o |   o   |      | -    |
+| 4    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Lv. 1  |   o   | o    | o    | o |  o    |      | -    |
 | 5    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | Lv. 1  |   o   | o    | o    | o    |    o  |      | -    |
-| 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |  o    | o    | o    |      |   o   |      | -    |
+| 6    | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | Lv. 2  |  o    | o    | o    | o |   o   |      | -    |
 | 7    | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Lv. 2  |      | o | o    | o    |   o   |      | -    |
 | 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      | o    | o    | o    |    o  |      | -    |
 | 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      | o | o    | o    |    o  |      | -    |
