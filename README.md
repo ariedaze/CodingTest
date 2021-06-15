@@ -264,8 +264,8 @@ python make_directory_structure.py 이동규 탐욕
 | 12  | [boj_12886_돌 그룹](https://www.acmicpc.net/problem/12886) | 골드 5 |  640   | x | 948(pypy) | x |      |      | -    |
 </details>
 
-
-### 12. 프로그래머스 실전 연습 lv1, lv2 [접기/펼치기]
+<details>
+  <summary><h3>12. 프로그래머스 실전 연습 lv1, lv2 [접기/펼치기]</h3></summary>
 
 > IDE 도움 받지 않고 풀어보기
 
@@ -281,6 +281,25 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | Lv. 2  |      | o    | o    | o    |      |      | -    |
 | 9    | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Lv. 2  |      | o | o    | o    |      |      | -    |
 | 10   | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Lv. 2  |      |      | o    | o    |      |      | -    |
+</details>
+
+### 13. 프로그래머스 실전 연습 lv2 2번째 [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | Lv. 2 |      |      |      |      |      |      | -    |
+| 2    | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv. 2 |      |      |      |      |      |      | -    |
+| 3    | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | Lv. 2  |      |      |      |      |      |      | -    |
+| 4    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |      |      |      |      |      |      | -    |
+| 5    | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv. 2  |      |      |      |      |      |      | -    |
+| 6    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv. 2  |      |      |      |      |      |      | -    |
+| 7    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv. 2  |      |      |      |      |      |      | -    |
+| 8    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv. 2  |      |      |      |      |      |      | -    |
+| 9    | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv. 2  |      |      |      |      |      |      | -    |
+| 10   | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv. 2  |      |      |      |      |      |      | -    |
+
 
 Brute Force => N과 M 1~8, NM과 K 1
 
