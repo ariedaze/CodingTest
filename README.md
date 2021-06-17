@@ -289,12 +289,12 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | Lv. 2 |      | o |  | o |      |      | -    |
-| 2    | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv. 2 |      | o |  | o |      |      | -    |
-| 3    | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | Lv. 2  |      | o |  | o |      |      | -    |
-| 4    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |      |      |  | o |      |      | -    |
-| 5    | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv. 2  |      | o |  | o |      |      | -    |
-| 6    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv. 2  |      | o |  | o |      |      | -    |
+| 1    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | Lv. 2 |      | o | o | o |      |      | -    |
+| 2    | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv. 2 |      | o | o | o |      |      | -    |
+| 3    | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | Lv. 2  |      | o | o | o |      |      | -    |
+| 4    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |      |      | o | o |      |      | -    |
+| 5    | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv. 2  |      | o | o | o |      |      | -    |
+| 6    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv. 2  |      | o | o | o |      |      | -    |
 | 7    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv. 2  |      |      | o | o |      |      | -    |
 | 8    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv. 2  |      | o | o | o |      |      | -    |
 | 9    | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv. 2  |      | o | o | o |      |      | -    |
