@@ -300,6 +300,24 @@ python make_directory_structure.py 이동규 탐욕
 | 9    | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv. 2  |      | o | o | o |  o    |      | -    |
 | 10   | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Lv. 2  |      | x | o | o |   o  |      | -    |
 
+
+### 14. 프로그래머스 실전 연습 lv2, 3 3번째 [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      |      |      |      |      |      | -    |
+| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      |      |      |      |      |      | -    |
+| 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      |      |      |      |      | -    |
+| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |      |      |      |      |      |      | -    |
+| 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      |      |      |      |      |      | -    |
+| 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      |      |      |      |      |      | -    |
+| 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      |      |      |      |      |      | -    |
+| 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      |      |      |      |      |      | -    |
+| 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      |      |      |      |      |      | -    |
+| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      |      |      |      |      |      | -    |
+
 Brute Force => N과 M 1~8, NM과 K 1
 
 https://programmers.co.kr/skill_checks
