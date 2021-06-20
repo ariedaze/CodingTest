@@ -3,7 +3,7 @@ def solution(skill, skill_trees):
 
     for skill_tree in skill_trees:
         match = []
-        for alpha in skill_tree:
+        for alpha in skill_tree: 
             if alpha in skill:
                 match.append(alpha)
 
