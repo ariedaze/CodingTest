@@ -2,6 +2,7 @@ from itertools import combinations
 from collections import defaultdict
 import bisect
 
+
 def solution(info, query):
     answer = []
 
