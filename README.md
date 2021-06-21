@@ -295,7 +295,7 @@ python make_directory_structure.py 이동규 탐욕
 | 4    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |  o   | o | o | o |  o   |      | -    |
 | 5    | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv. 2  |  x   | o | o | o |  o   |      | -    |
 | 6    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv. 2  |  o   | o | o | o |  o   |      | -    |
-| 7    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv. 2  | x    | x | o | o |    o  |      | -    |
+| 7    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv. 2  | x    | x | o | x |    o  |      | -    |
 | 8    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv. 2  |      | o | o | o |    o  |      | -    |
 | 9    | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv. 2  |      | o | o | o |  o    |      | -    |
 | 10   | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Lv. 2  |      | x | o | o |   o  |      | -    |
@@ -309,8 +309,8 @@ python make_directory_structure.py 이동규 탐욕
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      |      |      |      |      |      | -    |
 | 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      |      |      |      |      |      | -    |
-| 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      |      |      |      |      | -    |
-| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |      |      |      |      |      |      | -    |
+| 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv. 2  |      |      |      |      |      |      | -    |
+| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      |      |      |      |      | -    |
 | 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      |      |      |      |      |      | -    |
 | 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      |      |      |      |      |      | -    |
 | 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      |      |      |      |      |      | -    |
