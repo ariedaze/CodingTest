@@ -307,8 +307,8 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      |      |      |      |      |      | -    |
-| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      |      |      |      |      |      | -    |
+| 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      |      | o |      |      |      | -    |
+| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      |      | o |      |      |      | -    |
 | 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      |      |      |      |      | -    |
 | 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |      |      |      |      |      |      | -    |
 | 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      |      |      |      |      |      | -    |
