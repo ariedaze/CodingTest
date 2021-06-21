@@ -293,12 +293,12 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Lv. 2 |  o   | o | o | o |   o  | o | -    |
 | 3    | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | Lv. 2  |  o   | o | o | o |  o   | o | -    |
 | 4    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Lv. 2  |  o   | o | o | o |  o   | o | -    |
-| 5    | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv. 2  |  x   | o | o | o |  o   | o | -    |
+| 5    | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | Lv. 2  |  o   | o | o | o |  o   | o | -    |
 | 6    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Lv. 2  |  o   | o | o | o |  o   | o | -    |
 | 7    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Lv. 2  | x    | x | o | x |    o  | x | -    |
-| 8    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv. 2  |      | o | o | o |    o  | o | -    |
-| 9    | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv. 2  |      | o | o | o |  o    | o | -    |
-| 10   | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Lv. 2  |      | x | o | o |   o  | x | -    |
+| 8    | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Lv. 2  |   o  | o | o | o |    o  | o | -    |
+| 9    | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Lv. 2  |  o   | o | o | o |  o    | o | -    |
+| 10   | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Lv. 2  |  x   | x | o | o |   o  | x | -    |
 
 
 ### 14. 프로그래머스 실전 연습 lv2, 3 3번째 [접기/펼치기]
