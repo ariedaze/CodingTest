@@ -316,7 +316,7 @@ python make_directory_structure.py 이동규 탐욕
 | 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      |      |      |      |      |      | -    |
 | 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      |      |      |      |      |      | -    |
 | 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      |      |      |      |      |      | -    |
-| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      |      |      |      |      |      | -    |
+| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      |      | o |      |      |      | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
