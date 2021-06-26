@@ -310,7 +310,7 @@ python make_directory_structure.py 이동규 탐욕
 | 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      |      | o |      |    o  |      | -    |
 | 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      |      | o |      |      |      | -    |
 | 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv. 2  |      |      | o |      |      |      | -    |
-| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      |      |      |   o   |      | -    |
+| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      | o |      |   o   |      | -    |
 | 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      |      |      |      |      |      | -    |
 | 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      |      | o |      |   o   |      | -    |
 | 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      |      | o |      |      |      | -    |
