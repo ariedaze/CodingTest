@@ -312,11 +312,11 @@ python make_directory_structure.py 이동규 탐욕
 | 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv. 2  |      |      |      |      |      |      | -    |
 | 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |      |      |      |      |      | -    |
 | 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      |      |      |      |      |      | -    |
-| 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      |      | o |      |      |      | -    |
+| 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      |      | o |      |   o   |      | -    |
 | 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      |      | o |      |      |      | -    |
 | 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      |      | o |      |      |      | -    |
-| 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      |      | o |      |      |      | -    |
-| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      |      | o |      |      |      | -    |
+| 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      |      | o |      |   o   |      | -    |
+| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      |      | o |      |   o   |      | -    |
 
 Brute Force => N과 M 1~8, NM과 K 1
 
