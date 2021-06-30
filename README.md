@@ -331,8 +331,8 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | Lv. 2  |      | o    |      |      | -    |
 | 3    | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | Lv. 2  |      | o    |      |      | -    |
 | 4    | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | Lv. 2  |      | o    |      |      | -    |
-| 5    | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv. 2  |      |      |      |      | -    |
-| 6    | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv. 2  |      |      |      |      | -    |
+| 5    | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv. 2  |      | o    |      |      | -    |
+| 6    | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv. 2  |      | o    |      |      | -    |
 | 7    | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv. 2  |      |      |      |      | -    |
 | 8    | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | Lv. 2  |      |      |      |      | -    |
 | 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  |      |      |      |      | -    |
