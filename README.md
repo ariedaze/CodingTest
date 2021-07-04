@@ -328,16 +328,16 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1    | [쿼드 압축 후 개수세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | Lv. 2  | o    | o    |      |    o  | -    |
-| 2    | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | Lv. 2  | o    | o    |      |   o   | -    |
-| 3    | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | Lv. 2  | o    | o    |      |  o    | -    |
-| 4    | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | Lv. 2  | o    | o    |      |   o   | -    |
-| 5    | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv. 2  | o    | o    |      |  o    | -    |
-| 6    | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv. 2  | x    | o    |      |    o  | -    |
-| 7    | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv. 2  | o    | o    |      |  o    | -    |
+| 1    | [쿼드 압축 후 개수세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | Lv. 2  | o    | o    | o |    o  | -    |
+| 2    | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | Lv. 2  | o    | o    | o |   o   | -    |
+| 3    | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | Lv. 2  | o    | o    | o |  o    | -    |
+| 4    | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | Lv. 2  | o    | o    | o |   o   | -    |
+| 5    | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv. 2  | o    | o    | o |  o    | -    |
+| 6    | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv. 2  | x    | o    | o |    o  | -    |
+| 7    | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv. 2  | o    | o    | o |  o    | -    |
 | 8    | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | Lv. 2  | o    | o    |      |      | -    |
-| 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    |      |   o   | -    |
-| 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    |      |  o    | -    |
+| 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    | o |   o   | -    |
+| 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    | o |  o    | -    |
 
 
 
