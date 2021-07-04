@@ -308,16 +308,16 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 순석 | 성훈 | 준현 | 재유 | 아현 | 동규 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      | o | o |      |    o  |      | -    |
-| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      | x | o |      |    x  |      | -    |
-| 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv. 2  |      | o | o |      |     o |      | -    |
-| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      | x | o |      |   o   |      | -    |
-| 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      | o | o |      |   o   |      | -    |
-| 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      | x | o |      |   x   |      | -    |
-| 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      | o | o |      |    o  |      | -    |
-| 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      | x | o |      |  o    |      | -    |
-| 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      | o | o |      |   o   |      | -    |
-| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      | o | o |      |   o   |      | -    |
+| 1    | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Lv. 2 |      |  | o |      |    o  |      | -    |
+| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | Lv. 2 |      |  | o |      |    x  |      | -    |
+| 3    | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Lv. 2  |      |  | o |      |     o |      | -    |
+| 4    | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | Lv. 2  |      |  | o |      |   o   |      | -    |
+| 5    | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Lv. 2  |      |  | o |      |   o   |      | -    |
+| 6    | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | Lv. 2  |      |  | o |      |   x   |      | -    |
+| 7    | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Lv. 2  |      |  | o |      |    o  |      | -    |
+| 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      |  | o |      |  o    |      | -    |
+| 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      |  | o |      |   o   |      | -    |
+| 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      |  | o |      |   o   |      | -    |
 
 
 
