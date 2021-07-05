@@ -302,7 +302,9 @@ python make_directory_structure.py 이동규 탐욕
 | 10   | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Lv. 2  |  x   | x | o | o |   o  | x | -    |
 </details>
 
-### 14. 프로그래머스 실전 연습 lv2 (3번째) [접기/펼치기]
+
+<details>
+  <summary><h3>14. 프로그래머스 실전 연습 lv2 (3번째) [접기/펼치기]</h3></summary>
 
 > IDE 도움 받지 않고 풀어보기
 
@@ -318,12 +320,11 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      | x | o | o |  o    |      | -    |
 | 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      | o | o | o |   o   |      | -    |
 | 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      | o | o | o |   o   |      | -    |
+</details>
 
 
-
-
-### 15. 프로그래머스 실전 연습 lv2 (4번째) [접기/펼치기]
-
+<details>
+  <summary><h3>15. 프로그래머스 실전 연습 lv2 (4번째) [접기/펼치기]</h3></summary>
 > IDE 도움 받지 않고 풀어보기
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
@@ -338,7 +339,7 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | Lv. 2  | o    | o    | o |   o   | -    |
 | 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    | o |   o   | -    |
 | 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    | o |  o    | -    |
-
+</details>
 
 
 ### 16. 프로그래머스 실전 연습 lv1, 2 (5번째) [접기/펼치기]
