@@ -49,6 +49,10 @@ python make_directory_structure.py 이동규 탐욕
 ## 커리큘럼
 
 <details>
+  <summary><h2>1~15주차 문제 [접기/펼치기]</h2></summary>
+  
+
+<details>
   <summary><h3>1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ) [접기/펼치기]</h3></summary>
 
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
@@ -340,7 +344,7 @@ python make_directory_structure.py 이동규 탐욕
 | 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    | o |   o   | -    |
 | 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    | o |  o    | -    |
 </details>
-
+</details>
 
 ### 16. 프로그래머스 실전 연습 lv1, 2 (5번째) [접기/펼치기]
 
