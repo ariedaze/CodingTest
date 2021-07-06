@@ -350,8 +350,8 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1    | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | Lv. 1  |      |      |      |      | -    |
-| 2    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv. 1  |      |      |      |      | -    |
+| 1    | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | Lv. 1  |      | o    |      |      | -    |
+| 2    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv. 1  |      | o    |      |      | -    |
 | 3    | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | Lv. 1  | o    |      |      |      | -    |
 | 4    | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | Lv. 1  | o    |      |      |      | -    |
 | 5    | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | Lv. 1  |      |      |      |      | -    |
