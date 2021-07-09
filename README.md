@@ -358,7 +358,7 @@ python make_directory_structure.py 이동규 탐욕
 | 6    | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | Lv. 2  |      |      |      |      | -    |
 | 7    | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Lv. 2  |      |      |      |      | -    |
 | 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  |      |      |      |    o  | -    |
-| 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  |      |      |      |      | -    |
+| 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  |      | o |      |      | -    |
 | 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  |      |      |      |      | -    |
 
 
