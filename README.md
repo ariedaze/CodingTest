@@ -355,11 +355,11 @@ python make_directory_structure.py 이동규 탐욕
 | 3    | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | Lv. 1  | o    | o    |      |      | -    |
 | 4    | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | Lv. 1  | o    | o    |      |      | -    |
 | 5    | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | Lv. 1  |      | o |      |   o   | -    |
-| 6    | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | Lv. 2  |      |      |      |      | -    |
-| 7    | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Lv. 2  |      |      |      |      | -    |
-| 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  |      |      |      |    o  | -    |
+| 6    | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | Lv. 2  |      | o |      |      | -    |
+| 7    | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Lv. 2  |      | o |      |      | -    |
+| 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  |      | o |      |    o  | -    |
 | 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  |      | o |      |      | -    |
-| 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  |      |      |      |      | -    |
+| 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  |      | o |      |      | -    |
 
 
 Brute Force => N과 M 1~8, NM과 K 1
