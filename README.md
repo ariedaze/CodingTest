@@ -362,6 +362,24 @@ python make_directory_structure.py 이동규 탐욕
 | 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  |      | o |      |      | -    |
 
 
+### 17. 프로그래머스 실전 연습 lv1, 2, 3 (6번째) [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | Lv. 1  |      |      |      |      | -    |
+| 2    | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | Lv. 1  |      |      |      |      | -    |
+| 3    | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | Lv. 1  |      |      |      |      | -    |
+| 4    | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv. 1  |      |      |      |      | -    |
+| 5    | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv. 1  |      |      |      |      | -    |
+| 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  |      |      |      |      | -    |
+| 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      |      |      |      | -    |
+| 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | |      | | | - |
+| 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | |      | | | - |
+| 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | |      | | | - |
+
+
 Brute Force => N과 M 1~8, NM과 K 1
 
 https://programmers.co.kr/skill_checks
