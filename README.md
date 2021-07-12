@@ -350,16 +350,16 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1    | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | Lv. 1  | o | o    |      |  o    | -    |
-| 2    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv. 1  | o | o    |      |      | -    |
-| 3    | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | Lv. 1  | o    | o    |      |      | -    |
-| 4    | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | Lv. 1  | o    | o    |      |      | -    |
-| 5    | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | Lv. 1  | o | o |      |   o   | -    |
-| 6    | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | Lv. 2  |      | o |      |      | -    |
-| 7    | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Lv. 2  |      | o |      |      | -    |
-| 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  |      | o |      |    o  | -    |
-| 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  |      | o |      |      | -    |
-| 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  |      | o |      |      | -    |
+| 1    | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | Lv. 1  | o | o    | o |  o    | -    |
+| 2    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv. 1  | o | o    | o |   o   | -    |
+| 3    | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | Lv. 1  | o    | o    | o |   o   | -    |
+| 4    | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | Lv. 1  | o    | o    | o |   o   | -    |
+| 5    | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | Lv. 1  | o | o | o |   o   | -    |
+| 6    | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | Lv. 2  | o | o | o |   o   | -    |
+| 7    | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Lv. 2  | o | o | o |  o    | -    |
+| 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  | o | o | o |    o  | -    |
+| 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  | o | o | o |   o   | -    |
+| 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  | o | o | o |   o   | -    |
 
 
 ### 17. 프로그래머스 실전 연습 lv1, 2, 3 (6번째) [접기/펼치기]
