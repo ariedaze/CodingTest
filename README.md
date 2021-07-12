@@ -368,11 +368,11 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1    | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | Lv. 1  |      |      |      |      | -    |
-| 2    | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | Lv. 1  |      |      |      |      | -    |
-| 3    | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | Lv. 1  |      |      |      |      | -    |
-| 4    | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv. 1  |      |      |      |      | -    |
-| 5    | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv. 1  |      |      |      |      | -    |
+| 1    | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | Lv. 1  |      | o |      |      | -    |
+| 2    | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | Lv. 1  |      | o |      |      | -    |
+| 3    | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | Lv. 1  |      | o |      |      | -    |
+| 4    | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv. 1  |      | o |      |      | -    |
+| 5    | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv. 1  |      | o |      |      | -    |
 | 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  |      |      |      |      | -    |
 | 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      |      |      |      | -    |
 | 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | |      | | | - |
