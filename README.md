@@ -342,9 +342,9 @@ python make_directory_structure.py 이동규 탐욕
 | 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    | o |   o   | -    |
 | 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    | o |  o    | -    |
 </details>
-</details>
 
-### 16. 프로그래머스 실전 연습 lv1, 2 (5번째) [접기/펼치기]
+<details>
+  <summary><h3>16. 프로그래머스 실전 연습 lv1, 2 (5번째) [접기/펼치기]</h3></summary>
 
 > IDE 도움 받지 않고 풀어보기
 
@@ -360,6 +360,8 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  | o | o | o |    o  | -    |
 | 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  | o | o | o |   o   | -    |
 | 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  | o | o | o |   o   | -    |
+</details>
+</details>
 
 
 ### 17. 프로그래머스 실전 연습 lv1, 2, 3 (6번째) [접기/펼치기]
@@ -373,8 +375,8 @@ python make_directory_structure.py 이동규 탐욕
 | 3    | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | Lv. 1  |      | o |      |      | -    |
 | 4    | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv. 1  |      | o |      |      | -    |
 | 5    | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv. 1  |      | o |      |      | -    |
-| 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  |      |      |      |      | -    |
-| 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      |      |      |      | -    |
+| 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  |      | o |      |      | -    |
+| 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      | o |      |      | -    |
 | 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | |      | | | - |
 | 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | |      | | | - |
 | 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | |      | | | - |
