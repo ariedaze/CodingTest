@@ -378,8 +378,8 @@ python make_directory_structure.py 이동규 탐욕
 | 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  |      | o |      |      | -    |
 | 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      | o |      |      | -    |
 | 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | | o | | | - |
-| 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | |      | | | - |
-| 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | |      | | | - |
+| 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | | o | | | - |
+| 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | | o | | | - |
 
 
 Brute Force => N과 M 1~8, NM과 K 1
