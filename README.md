@@ -376,7 +376,7 @@ python make_directory_structure.py 이동규 탐욕
 | 4    | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv. 1  | o | o |      |      | -    |
 | 5    | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv. 1  | o | o |      |      | -    |
 | 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  | o | o |      |      | -    |
-| 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      | o |      |      | -    |
+| 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  |      | o |      |   o   | -    |
 | 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | | o | | | - |
 | 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | | o | | | - |
 | 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | | o | | | - |
