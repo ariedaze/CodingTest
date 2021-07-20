@@ -361,10 +361,9 @@ python make_directory_structure.py 이동규 탐욕
 | 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  | o | o | o |   o   | -    |
 | 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  | o | o | o |   o   | -    |
 </details>
-</details>
 
-
-### 17. 프로그래머스 실전 연습 lv1, 2, 3 (6번째) [접기/펼치기]
+<details>
+  <summary><h3>17. 프로그래머스 실전 연습 lv1, 2, 3 (6번째) [접기/펼치기]</h3></summary>
 
 > IDE 도움 받지 않고 풀어보기
 
@@ -380,6 +379,27 @@ python make_directory_structure.py 이동규 탐욕
 | 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | x | o | |o | - |
 | 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | o | o | |o | - |
 | 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | o | o | | o| - |
+</details>
+
+</details>
+
+### 18. 프로그래머스 실전 연습 lv1, 3 (7번째) [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv. 1 |      |      |      |      | -    |
+| 2    | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | Lv. 1  |      |      |      |      | -    |
+| 3    | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv. 1  |      |      |      |      | -    |
+| 4    | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | Lv. 1  |      |      |      |      | -    |
+| 5    | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | Lv. 1  |      |      |      |      | -    |
+| 6    | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | Lv. 1  |      |      |      |      | -    |
+| 7    | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | Lv. 1  |      |      |      |      | -    |
+| 8 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | Lv. 3 |      |      |      | | - |
+| 9 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv. 3 |      |      |      |      | - |
+| 10 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | Lv. 3 |      |      |      |      | - |
+
 
 
 Brute Force => N과 M 1~8, NM과 K 1
