@@ -389,7 +389,7 @@ python make_directory_structure.py 이동규 탐욕
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1    | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv. 1 |      |      |      |      | -    |
+| 1    | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv. 1 |      | o |      |      | -    |
 | 2    | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | Lv. 1  |      |      |      |      | -    |
 | 3    | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv. 1  |      |      |      |      | -    |
 | 4    | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | Lv. 1  |      |      |      |      | -    |
