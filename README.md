@@ -393,9 +393,9 @@ python make_directory_structure.py 이동규 탐욕
 | 2    | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | Lv. 1  |      | o |      |      | -    |
 | 3    | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv. 1  |      | o |      |      | -    |
 | 4    | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | Lv. 1  |      | o |      |      | -    |
-| 5    | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | Lv. 1  |      |      |      |      | -    |
-| 6    | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | Lv. 1  |      |      |      |      | -    |
-| 7    | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | Lv. 1  |      |      |      |      | -    |
+| 5    | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | Lv. 1  |      | o |      |      | -    |
+| 6    | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | Lv. 1  |      | o |      |      | -    |
+| 7    | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | Lv. 1  |      | o |      |      | -    |
 | 8 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | Lv. 3 |      |      |      | | - |
 | 9 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv. 3 |      |      |      |      | - |
 | 10 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | Lv. 3 |      |      |      |      | - |
