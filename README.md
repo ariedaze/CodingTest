@@ -49,6 +49,10 @@ python make_directory_structure.py 이동규 탐욕
 ## 커리큘럼
 
 <details>
+  <summary><h2>1~15주차 문제 [접기/펼치기]</h2></summary>
+  
+
+<details>
   <summary><h3>1. 탐욕 알고리즘(Greedy Algorithm) [탐욕 알고리즘 강의](https://youtu.be/2zjoKjt97vQ) [접기/펼치기]</h3></summary>
 
 |번호|문제|난이도|순석|성훈|준현|재유|아현|비고|
@@ -161,14 +165,12 @@ python make_directory_structure.py 이동규 탐욕
 | 11    | [boj_16959_체스판 여행 1](https://www.acmicpc.net/problem/16959) | 골드 1 | x    | -    | o | -  | -  | -    |
 | 12   | [boj_17071_숨바꼭질 5](https://www.acmicpc.net/problem/17071) | 골드 1 | -    | -    | o   | -    | -  | -    |
 | 13   | [boj_12967_pqr](https://www.acmicpc.net/problem/12967) | 플레 5 | -    | -    | -    | -    | -   | -    |
-</details>
 
 #### 문제별 핵심 개념
 - 제곱근 : 이분탐색
 - 골드바흐 파티션 : 소수 만들기(에라토스테네스의 체)
 - 소풍 : 원형큐
 - 요세푸스 문제 3 : [요세푸스 문제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C), [요세푸스 문제(꺼무위키)](https://namu.wiki/w/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)
-
 </details>
 
 <details>
@@ -302,7 +304,9 @@ python make_directory_structure.py 이동규 탐욕
 | 10   | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Lv. 2  |  x   | x | o | o |   o  | x | -    |
 </details>
 
-### 14. 프로그래머스 실전 연습 lv2, 3 3번째 [접기/펼치기]
+
+<details>
+  <summary><h3>14. 프로그래머스 실전 연습 lv2 (3번째) [접기/펼치기]</h3></summary>
 
 > IDE 도움 받지 않고 풀어보기
 
@@ -318,28 +322,85 @@ python make_directory_structure.py 이동규 탐욕
 | 8    | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Lv. 2  |      | x | o | o |  o    |      | -    |
 | 9    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Lv. 2  |      | o | o | o |   o   |      | -    |
 | 10   | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | Lv. 2  |      | o | o | o |   o   |      | -    |
+</details>
 
 
+<details>
+  <summary><h3>15. 프로그래머스 실전 연습 lv2 (4번째) [접기/펼치기]</h3></summary>
+> IDE 도움 받지 않고 풀어보기
 
+| 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | [쿼드 압축 후 개수세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | Lv. 2  | o    | o    | o |    o  | -    |
+| 2    | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | Lv. 2  | o    | o    | o |   o   | -    |
+| 3    | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | Lv. 2  | o    | o    | o |  o    | -    |
+| 4    | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | Lv. 2  | o    | o    | o |   o   | -    |
+| 5    | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv. 2  | o    | o    | o |  o    | -    |
+| 6    | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv. 2  | x    | o    | o |    o  | -    |
+| 7    | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv. 2  | o    | o    | o |  o    | -    |
+| 8    | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | Lv. 2  | o    | o    | o |   o   | -    |
+| 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    | o |   o   | -    |
+| 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    | o |  o    | -    |
+</details>
 
-### 15. 프로그래머스 실전 연습 lv2, 3 4번째 [접기/펼치기]
+<details>
+  <summary><h3>16. 프로그래머스 실전 연습 lv1, 2 (5번째) [접기/펼치기]</h3></summary>
 
 > IDE 도움 받지 않고 풀어보기
 
 | 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
 | ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1    | [쿼드 압축 후 개수세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | Lv. 2  | o    | o    |      |      | -    |
-| 2    | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | Lv. 2  | o    | o    |      |      | -    |
-| 3    | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | Lv. 2  | o    | o    |      |      | -    |
-| 4    | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | Lv. 2  | o    | o    |      |      | -    |
-| 5    | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | Lv. 2  | o    | o    |      |      | -    |
-| 6    | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | Lv. 2  | x    | o    |      |      | -    |
-| 7    | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | Lv. 2  | o    | o    |      |      | -    |
-| 8    | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | Lv. 2  | o    | o    |      |      | -    |
-| 9    | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | Lv. 2  | o    | o    |      |      | -    |
-| 10   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | Lv. 2  | o    | o    |      |      | -    |
+| 1    | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | Lv. 1  | o | o    | o |  o    | -    |
+| 2    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | Lv. 1  | o | o    | o |   o   | -    |
+| 3    | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | Lv. 1  | o    | o    | o |   o   | -    |
+| 4    | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | Lv. 1  | o    | o    | o |   o   | -    |
+| 5    | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | Lv. 1  | o | o | o |   o   | -    |
+| 6    | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | Lv. 2  | o | o | o |   o   | -    |
+| 7    | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Lv. 2  | o | o | o |  o    | -    |
+| 8    | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | Lv. 2  | o | o | o |    o  | -    |
+| 9    | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Lv. 2  | o | o | o |   o   | -    |
+| 10   | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Lv. 2  | o | o | o |   o   | -    |
+</details>
 
+<details>
+  <summary><h3>17. 프로그래머스 실전 연습 lv1, 2, 3 (6번째) [접기/펼치기]</h3></summary>
 
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | Lv. 1 | o | o |      |    o  | -    |
+| 2    | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | Lv. 1  | o | o |      |  o    | -    |
+| 3    | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | Lv. 1  | o | o |      |   o   | -    |
+| 4    | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | Lv. 1  | o | o |      |    o  | -    |
+| 5    | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | Lv. 1  | o | o |      |  o    | -    |
+| 6    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | Lv. 1  | o | o |      |   o   | -    |
+| 7    | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | Lv. 2  | o | o |      |   o   | -    |
+| 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Lv. 3 | x | o | |o | - |
+| 9 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Lv. 3 | o | o | |o | - |
+| 10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Lv. 3 | o | o | | o| - |
+</details>
+
+</details>
+
+### 18. 프로그래머스 실전 연습 lv1, 3 (7번째) [접기/펼치기]
+
+> IDE 도움 받지 않고 풀어보기
+
+| 번호 | 문제                                                         | 난이도 | 성훈 | 준현 | 재유 | 아현 | 비고 |
+| ---- | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | Lv. 1 |      | o |      |      | -    |
+| 2    | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | Lv. 1  |      | o |      |      | -    |
+| 3    | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | Lv. 1  |      | o |      |      | -    |
+| 4    | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | Lv. 1  |      | o |      |      | -    |
+| 5    | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | Lv. 1  |      | o |      |      | -    |
+| 6    | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | Lv. 1  |      | o |      |      | -    |
+| 7    | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | Lv. 1  |      | o |      |      | -    |
+| 8 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | Lv. 3 |      | o |      | | - |
+| 9 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv. 3 |      |      |      |      | - |
+| 10 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | Lv. 3 |      |      |      |      | - |
+| 11 | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) | Lv. 3 |      |      |      |      | - |
+| 12 | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | Lv. 3 |      |      |      |      | - |
 
 
 
