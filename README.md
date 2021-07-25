@@ -396,11 +396,11 @@ python make_directory_structure.py 이동규 탐욕
 | 5    | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | Lv. 1  |      | o |      |      | -    |
 | 6    | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | Lv. 1  |      | o |      |      | -    |
 | 7    | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | Lv. 1  |      | o |      |      | -    |
-| 8 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | Lv. 3 |      | o |      | | - |
+| 8 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | Lv. 3 |      | o |      | o| - |
 | 9 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | Lv. 3 |      |      |      |      | - |
 | 10 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | Lv. 3 |      |      |      |      | - |
 | 11 | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) | Lv. 3 |      | o |      |      | - |
-| 12 | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | Lv. 3 |      | o |      |      | - |
+| 12 | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | Lv. 3 |      | o |      |   o   | - |
 
 
 
